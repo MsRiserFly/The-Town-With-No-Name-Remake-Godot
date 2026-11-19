@@ -1,4 +1,4 @@
-# The Town With No Name Hardcoded
+# The Town With No Name Remake Godot
 An Attempt to remake the town with no name in godot with minimal complex modular script and mostly hardcoded scripts
 
 # No AI

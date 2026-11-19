@@ -1,0 +1,52 @@
+[gd_scene format=3 uid="uid://dsg1mr5x3ie78"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_17tfu"]
+[ext_resource type="SpriteFrames" uid="uid://ofi5qsim1u8x" path="res://resource/spriteframes/head into town after choice 1/notshane looking at stores.tres" id="2_estlp"]
+[ext_resource type="PackedScene" uid="uid://s06gedxnavu3" path="res://scenes/head into town ch2/transition scene/amiga transition canvas layer.tscn" id="3_jqwjp"]
+
+[sub_resource type="Animation" id="Animation_jqwjp"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/ColorRect:material:shader_parameter/fade_progress")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [1.0]
+}
+
+[sub_resource type="Animation" id="Animation_inkbj"]
+resource_name = "transition black to color"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("CanvasLayer/ColorRect:material:shader_parameter/fade_progress")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [1.0, 0.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_rsvi8"]
+_data = {
+&"RESET": SubResource("Animation_jqwjp"),
+&"transition black to color": SubResource("Animation_inkbj")
+}
+
+[node name="NotshaneLookAtTownStores" type="AnimatedSprite2D" unique_id=1283931043]
+script = ExtResource("1_17tfu")
+sprite_array = Array[SpriteFrames]([ExtResource("2_estlp")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"
+
+[node name="CanvasLayer" parent="." unique_id=261963564 instance=ExtResource("3_jqwjp")]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=432073996]
+libraries/ = SubResource("AnimationLibrary_rsvi8")
+autoplay = &"transition black to color"

@@ -2,6 +2,16 @@
 
 [ext_resource type="Texture2D" uid="uid://rcctj6traycx" path="res://assets/animated cutscene/intro prologue ch0/select menu 0/1STWHATNOW_McJp.png" id="1_mhwk4"]
 [ext_resource type="Script" uid="uid://drdvtsuto1oal" path="res://scenes/intro ch 1/choice menu/coctos.gd" id="2_lh515"]
+[ext_resource type="Script" uid="uid://c61o7c7r2ov8u" path="res://script/custom_classes/interactive choice area2d/interactivechoicearea2d custom class.gd" id="2_rx24y"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qetgx"]
+size = Vector2(715, 72)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_rx24y"]
+size = Vector2(715, 72)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_56p88"]
+size = Vector2(715, 72)
 
 [node name="WhereNowIntro" type="TextureRect" unique_id=420098571]
 anchors_preset = 15
@@ -12,10 +22,45 @@ grow_vertical = 2
 texture = ExtResource("1_mhwk4")
 
 [node name="1 get back on train" type="Area2D" parent="." unique_id=917260456]
+script = ExtResource("2_rx24y")
 
-[node name="2 head on into town" type="Area2D" parent="." unique_id=1167430017]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="1 get back on train" unique_id=841469581]
+position = Vector2(769, 229)
+shape = SubResource("RectangleShape2D_qetgx")
 
-[node name="3 talk to the older timer" type="Area2D" parent="." unique_id=1374954725]
+[node name="2 head on into town" type="Area2D" parent="." unique_id=1868847593]
+script = ExtResource("2_rx24y")
+next_choiced_scene = "uid://1mbo0us4qoub"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="2 head on into town" unique_id=206525813]
+position = Vector2(769, 312)
+shape = SubResource("RectangleShape2D_rx24y")
+
+[node name="ColorRect2" type="ColorRect" parent="2 head on into town" unique_id=1423249605]
+offset_left = 412.0
+offset_top = 274.0
+offset_right = 1119.0
+offset_bottom = 346.0
+mouse_filter = 2
+color = Color(0, 0, 0, 0.18039216)
+
+[node name="3 talk to the older timer" type="Area2D" parent="." unique_id=927585591]
+script = ExtResource("2_rx24y")
+next_choiced_scene = "uid://jw1ymts502k1"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="3 talk to the older timer" unique_id=2013138563]
+position = Vector2(769, 392)
+shape = SubResource("RectangleShape2D_56p88")
+
+[node name="ColorRect" type="ColorRect" parent="3 talk to the older timer" unique_id=667601491]
+offset_left = 412.0
+offset_top = 356.0
+offset_right = 1119.0
+offset_bottom = 428.0
+mouse_filter = 2
+color = Color(0, 0, 0, 0.18039216)
 
 [node name="coctos" type="Area2D" parent="." unique_id=1887487187]
 script = ExtResource("2_lh515")

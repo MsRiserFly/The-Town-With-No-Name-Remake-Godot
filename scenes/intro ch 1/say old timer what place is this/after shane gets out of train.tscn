@@ -17,5 +17,6 @@
 
 [node name="AnimatedCutsceneSprite2D_sprite_array" type="AnimatedSprite2D" unique_id=1545160259]
 script = ExtResource("1_u7a1k")
+next_scene_path = "res://scenes/intro ch 1/choice menu/where_now _intro.tscn"
 sprite_array = Array[SpriteFrames]([ExtResource("2_ggi12"), ExtResource("3_447w6"), ExtResource("4_u1us0"), ExtResource("5_8kf0v"), ExtResource("6_3takx"), ExtResource("7_txj2f"), ExtResource("8_vv5gb"), ExtResource("9_fw2qi"), ExtResource("10_iw27q"), ExtResource("11_jsbct"), ExtResource("12_7rtnn"), ExtResource("13_khnmv"), ExtResource("14_ls8d0")])
 metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

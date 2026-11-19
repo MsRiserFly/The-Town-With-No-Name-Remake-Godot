@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://s06gedxnavu3"]
+
+[ext_resource type="Shader" uid="uid://bhmg5vk6dpwsd" path="res://scenes/head into town ch2/notshane look at town stores/notshane look at town stores.gdshader" id="1_1xkm0"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_estlp"]
+shader = ExtResource("1_1xkm0")
+shader_parameter/fade_progress = 1.0
+
+[node name="CanvasLayer" type="CanvasLayer" unique_id=261963564]
+layer = 10
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1867423122]
+material = SubResource("ShaderMaterial_estlp")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2

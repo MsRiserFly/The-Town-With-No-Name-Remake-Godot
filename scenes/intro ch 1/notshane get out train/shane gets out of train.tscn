@@ -10,4 +10,5 @@ sprite_frames = ExtResource("1_5861n")
 script = ExtResource("1_dhjg3")
 censored_no_gore_sprite = ExtResource("2_wp5cv")
 censored_no_death_sprite = ExtResource("3_5861n")
+next_scene_path = "res://scenes/intro ch 1/say old timer what place is this/after shane gets out of train.tscn"
 metadata/_custom_type_script = "uid://kqmllgwb70pj"

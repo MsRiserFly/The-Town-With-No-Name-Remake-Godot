@@ -21,6 +21,7 @@ func _ready() -> void:
 func _spriteframe_changer_based_on_array():
 	#change it
 	sprite_frames = sprite_array[index_sprite_array]
+	_configure_spriteframes()
 	#play it
 	play()
 

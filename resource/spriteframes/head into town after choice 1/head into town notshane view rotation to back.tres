@@ -1,0 +1,122 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://cebbxuqaoj3sx"]
+
+[ext_resource type="Texture2D" uid="uid://c24ymiwa6on1i" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_1.png" id="1_gp4a6"]
+[ext_resource type="Texture2D" uid="uid://dobjx7ty4xcd5" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_2.png" id="2_uk28t"]
+[ext_resource type="Texture2D" uid="uid://b1ootnmfplt5t" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_3.png" id="3_ao8em"]
+[ext_resource type="Texture2D" uid="uid://bfdrbjrkaffbq" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_4.png" id="4_bxswx"]
+[ext_resource type="Texture2D" uid="uid://4p78df7mlhe7" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_5.png" id="5_y265v"]
+[ext_resource type="Texture2D" uid="uid://bb6hjqv00ebma" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_6.png" id="6_nnl32"]
+[ext_resource type="Texture2D" uid="uid://iyfxjrk8vpb5" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_7.png" id="7_cjwor"]
+[ext_resource type="Texture2D" uid="uid://b6mbl2gw4pa0b" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_8.png" id="8_iyhok"]
+[ext_resource type="Texture2D" uid="uid://belad436kp0g0" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_9.png" id="9_qekty"]
+[ext_resource type="Texture2D" uid="uid://dq2pcxj4h03tt" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_10.png" id="10_7temw"]
+[ext_resource type="Texture2D" uid="uid://p0du8mgsdp2s" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_11.png" id="11_dv6sn"]
+[ext_resource type="Texture2D" uid="uid://b4xb43tcjjx16" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_12.png" id="12_bkhty"]
+[ext_resource type="Texture2D" uid="uid://c3q4ma12k8tyh" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_13.png" id="13_huqfs"]
+[ext_resource type="Texture2D" uid="uid://b43u11m40ng3j" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_14.png" id="14_0118i"]
+[ext_resource type="Texture2D" uid="uid://chne36lpifsby" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_15.png" id="15_a30yi"]
+[ext_resource type="Texture2D" uid="uid://dcgk8gmr8midk" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_16.png" id="16_lqkdt"]
+[ext_resource type="Texture2D" uid="uid://dmf6x0cvjt6de" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_17.png" id="17_xd32a"]
+[ext_resource type="Texture2D" uid="uid://ovdvma3shmwp" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_18.png" id="18_k72to"]
+[ext_resource type="Texture2D" uid="uid://c3qrw8fr266y" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_19.png" id="19_jii8v"]
+[ext_resource type="Texture2D" uid="uid://c7a6kbx6dkds5" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_20.png" id="20_dd8fh"]
+[ext_resource type="Texture2D" uid="uid://6lk55fukfadu" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_21.png" id="21_4edov"]
+[ext_resource type="Texture2D" uid="uid://bu4ldl4ori0ms" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_22.png" id="22_lcw5y"]
+[ext_resource type="Texture2D" uid="uid://bmmvbtb5ysjo7" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_23.png" id="23_htvrn"]
+[ext_resource type="Texture2D" uid="uid://56u3mdqks25v" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_24.png" id="24_vfpof"]
+[ext_resource type="Texture2D" uid="uid://c6nq6aby2pfkg" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_25.png" id="25_b6qge"]
+[ext_resource type="Texture2D" uid="uid://djrjhejro5sp0" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_26.png" id="26_n06wt"]
+[ext_resource type="Texture2D" uid="uid://d0eqm3ypug25q" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_27.png" id="27_obsda"]
+[ext_resource type="Texture2D" uid="uid://bnexu011iff8n" path="res://assets/animated cutscene/walk to town packed folder/pan view behind notshane/ARCDOWNANIM_McJp_28.png" id="28_3yepo"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gp4a6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_uk28t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ao8em")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_bxswx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_y265v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_nnl32")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_cjwor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_iyhok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_qekty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_7temw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_dv6sn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_bkhty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_huqfs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_0118i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_a30yi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_lqkdt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_xd32a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_k72to")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_jii8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_dd8fh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_4edov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_lcw5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_htvrn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_vfpof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_b6qge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_n06wt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_obsda")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_3yepo")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

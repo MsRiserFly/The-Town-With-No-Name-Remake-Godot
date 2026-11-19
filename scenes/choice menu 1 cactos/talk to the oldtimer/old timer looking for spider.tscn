@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://jw1ymts502k1"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_6e5k7"]
+[ext_resource type="SpriteFrames" uid="uid://47vo4olmh75m" path="res://resource/spriteframes/intro ch1/old timer talking.tres" id="2_l3sk6"]
+
+[node name="OldTimerLookingForSpider" type="AnimatedSprite2D" unique_id=1481776870]
+script = ExtResource("1_6e5k7")
+next_scene_path = "res://scenes/intro ch 1/choice menu/where_now _intro.tscn"
+sprite_array = Array[SpriteFrames]([ExtResource("2_l3sk6")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

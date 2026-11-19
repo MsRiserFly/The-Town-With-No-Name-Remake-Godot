@@ -1,0 +1,70 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://ofi5qsim1u8x"]
+
+[ext_resource type="Texture2D" uid="uid://cn3642spc41jv" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_1.png" id="1_ehipo"]
+[ext_resource type="Texture2D" uid="uid://c5dtlf0k7gntj" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_2.png" id="2_cxg57"]
+[ext_resource type="Texture2D" uid="uid://b7oj1qc1oqeh8" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_3.png" id="3_uyndt"]
+[ext_resource type="Texture2D" uid="uid://cstsw4pija3oa" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_4.png" id="4_nu547"]
+[ext_resource type="Texture2D" uid="uid://c2f7scx0a0yt" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_5.png" id="5_mgi30"]
+[ext_resource type="Texture2D" uid="uid://df7pjlqmcl105" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_6.png" id="6_t4da4"]
+[ext_resource type="Texture2D" uid="uid://bpknvk50b5q5o" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_7.png" id="7_o116j"]
+[ext_resource type="Texture2D" uid="uid://dqvtdkdah7sxm" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_8.png" id="8_goe47"]
+[ext_resource type="Texture2D" uid="uid://opluho4oe43n" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_9.png" id="9_jq7ru"]
+[ext_resource type="Texture2D" uid="uid://chx8kufryw7q7" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_10.png" id="10_r035g"]
+[ext_resource type="Texture2D" uid="uid://crtrlyfw88hrq" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_11.png" id="11_el03i"]
+[ext_resource type="Texture2D" uid="uid://bp3rrjg4xtt80" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_12.png" id="12_w0srw"]
+[ext_resource type="Texture2D" uid="uid://wpjwksiuw8y0" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_13.png" id="13_i1y7p"]
+[ext_resource type="Texture2D" uid="uid://mi3vqnicxm3c" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_14.png" id="14_ejet5"]
+[ext_resource type="Texture2D" uid="uid://cpb6wrx70lkyb" path="res://assets/animated cutscene/walk to town packed folder/walk to the town from trainstation/1STLOOKROUNDANIM_McJp_15.png" id="15_w2qdg"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 2.5,
+"texture": ExtResource("1_ehipo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cxg57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_uyndt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_nu547")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_mgi30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_t4da4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_o116j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_goe47")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_jq7ru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_r035g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_el03i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_w0srw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_i1y7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ejet5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_w2qdg")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 2.0
+}]

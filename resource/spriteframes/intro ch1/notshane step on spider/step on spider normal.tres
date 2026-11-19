@@ -1,0 +1,162 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://d2w7qxnlotbri"]
+
+[ext_resource type="Texture2D" uid="uid://bsfgt4kdkoc80" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_1.png" id="1_mysx3"]
+[ext_resource type="Texture2D" uid="uid://bmahhv83la6wr" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_2.png" id="2_ghoa4"]
+[ext_resource type="Texture2D" uid="uid://bjrrqdx776ace" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_3.png" id="3_4n2fc"]
+[ext_resource type="Texture2D" uid="uid://b3usnm3j28rem" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_4.png" id="4_daco1"]
+[ext_resource type="Texture2D" uid="uid://dl8bhju5i85wx" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_5.png" id="5_8r5wv"]
+[ext_resource type="Texture2D" uid="uid://debjseiybo318" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_6.png" id="6_orq6h"]
+[ext_resource type="Texture2D" uid="uid://maieevac2ioq" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_7.png" id="7_qf5e6"]
+[ext_resource type="Texture2D" uid="uid://djighdw442pg4" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_8.png" id="8_fy5f4"]
+[ext_resource type="Texture2D" uid="uid://ci3paet5j8ofg" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_9.png" id="9_vpa4h"]
+[ext_resource type="Texture2D" uid="uid://bi3324hcqwa6q" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_10.png" id="10_hbdg2"]
+[ext_resource type="Texture2D" uid="uid://qcdq3r3ncgbd" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_11.png" id="11_d3ewp"]
+[ext_resource type="Texture2D" uid="uid://befx1lmmvmhv2" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_12.png" id="12_1w7cv"]
+[ext_resource type="Texture2D" uid="uid://cnh3gsdvro3q4" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_13.png" id="13_uwge0"]
+[ext_resource type="Texture2D" uid="uid://d27r457ohf37v" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_14.png" id="14_5iua4"]
+[ext_resource type="Texture2D" uid="uid://b62iiggmn1n66" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_15.png" id="15_no6iw"]
+[ext_resource type="Texture2D" uid="uid://cbdpivhpdh4d3" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_16.png" id="16_siobt"]
+[ext_resource type="Texture2D" uid="uid://dqamuc317di14" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_17.png" id="17_dmkc5"]
+[ext_resource type="Texture2D" uid="uid://beb75rslvh4t3" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_18.png" id="18_06gkg"]
+[ext_resource type="Texture2D" uid="uid://cy0x1g3s4gpbp" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_19.png" id="19_6hvmj"]
+[ext_resource type="Texture2D" uid="uid://brx0vfaslcvia" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_20.png" id="20_4nd12"]
+[ext_resource type="Texture2D" uid="uid://50m1i51sn3h6" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_21.png" id="21_ws65l"]
+[ext_resource type="Texture2D" uid="uid://2fo5giqsex0m" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_22.png" id="22_alab3"]
+[ext_resource type="Texture2D" uid="uid://bds0sv6mex75u" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_23.png" id="23_yfncd"]
+[ext_resource type="Texture2D" uid="uid://dcxywtmf5fn02" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_24.png" id="24_8vqqs"]
+[ext_resource type="Texture2D" uid="uid://buygd5wfithwl" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_25.png" id="25_vde62"]
+[ext_resource type="Texture2D" uid="uid://b4530ap2k3pod" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_26.png" id="26_nan8b"]
+[ext_resource type="Texture2D" uid="uid://c2hqwnnkud4w4" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_27.png" id="27_vb78n"]
+[ext_resource type="Texture2D" uid="uid://bp7iaefk20dx4" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_28.png" id="28_iq54e"]
+[ext_resource type="Texture2D" uid="uid://dxkv0iu8f2joc" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_29.png" id="29_u2aqs"]
+[ext_resource type="Texture2D" uid="uid://be2a84w2bf7os" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_30.png" id="30_eallu"]
+[ext_resource type="Texture2D" uid="uid://bivajl56fya10" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_31.png" id="31_ip4p5"]
+[ext_resource type="Texture2D" uid="uid://b6noda351e27f" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_32.png" id="32_tht3x"]
+[ext_resource type="Texture2D" uid="uid://b2cjbt7hklwuf" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_33.png" id="33_al7k2"]
+[ext_resource type="Texture2D" uid="uid://bwxu7hihamiub" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_34.png" id="34_7rs3q"]
+[ext_resource type="Texture2D" uid="uid://dttk0nxa5h2vn" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_35.png" id="35_s4mv4"]
+[ext_resource type="Texture2D" uid="uid://n2gehgi8ux5l" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_36.png" id="36_qm27y"]
+[ext_resource type="Texture2D" uid="uid://blg21q8vvtbwv" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_37.png" id="37_0dhwy"]
+[ext_resource type="Texture2D" uid="uid://cveixyi0rdao0" path="res://assets/animated cutscene/intro prologue ch0/step out on spider/FEETWITHNONAMEANIM_McJp_38.png" id="38_5lsbj"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_mysx3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ghoa4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_4n2fc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_daco1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_8r5wv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_orq6h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_qf5e6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_fy5f4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_vpa4h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_hbdg2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_d3ewp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_1w7cv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_uwge0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_5iua4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_no6iw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_siobt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_dmkc5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_06gkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_6hvmj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_4nd12")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ws65l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_alab3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_yfncd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_8vqqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_vde62")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_nan8b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_vb78n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_iq54e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_u2aqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_eallu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_ip4p5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_tht3x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_al7k2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_7rs3q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_s4mv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_qm27y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_0dhwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_5lsbj")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

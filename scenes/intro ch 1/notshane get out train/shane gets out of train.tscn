@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://b750npbc750p4"]
+
+[ext_resource type="SpriteFrames" uid="uid://d2w7qxnlotbri" path="res://resource/spriteframes/intro ch1/notshane step on spider/step on spider normal.tres" id="1_5861n"]
+[ext_resource type="Script" uid="uid://bu532j6njksdf" path="res://scenes/intro ch 1/notshane get out train/animatedcutscene2d_censored.gd" id="1_dhjg3"]
+[ext_resource type="SpriteFrames" uid="uid://b243wy75w1y7y" path="res://resource/spriteframes/intro ch1/notshane step on spider/step on spider no gore sprite.tres" id="2_wp5cv"]
+[ext_resource type="SpriteFrames" uid="uid://bc2vil0l7myvk" path="res://resource/spriteframes/intro ch1/notshane step on spider/step on spider no death sprite.tres" id="3_5861n"]
+
+[node name="ShaneGetsOutOfTrain" type="AnimatedSprite2D" unique_id=712121268]
+sprite_frames = ExtResource("1_5861n")
+script = ExtResource("1_dhjg3")
+censored_no_gore_sprite = ExtResource("2_wp5cv")
+censored_no_death_sprite = ExtResource("3_5861n")
+metadata/_custom_type_script = "uid://kqmllgwb70pj"

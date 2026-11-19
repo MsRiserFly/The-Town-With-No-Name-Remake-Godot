@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dp6r00258a2p6"
+path="res://.godot/imported/GENERALTUNE1.ogg-13dc7fbdb68cc63713f338231ff3d243.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/choice where now/GENERALTUNE1.ogg"
+dest_files=["res://.godot/imported/GENERALTUNE1.ogg-13dc7fbdb68cc63713f338231ff3d243.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

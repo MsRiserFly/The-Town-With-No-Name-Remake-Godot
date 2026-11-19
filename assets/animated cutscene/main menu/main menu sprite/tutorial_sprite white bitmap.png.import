@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://dljuworajam6t"
+path="res://.godot/imported/tutorial_sprite white bitmap.png-4e724d2543429172f9ac5c9b0bb01a15.res"
+
+[deps]
+
+source_file="res://assets/animated cutscene/main menu/main menu sprite/tutorial_sprite white bitmap.png"
+dest_files=["res://.godot/imported/tutorial_sprite white bitmap.png-4e724d2543429172f9ac5c9b0bb01a15.res"]
+
+[params]
+
+create_from=0
+threshold=0.5

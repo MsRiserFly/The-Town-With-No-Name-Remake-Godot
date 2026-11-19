@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c5i4h3hm7a862"
+path="res://.godot/imported/he is done it.ogg-946f6dd55e1d988891233e1c6b89574d.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/voice/clint/he is done it.ogg"
+dest_files=["res://.godot/imported/he is done it.ogg-946f6dd55e1d988891233e1c6b89574d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

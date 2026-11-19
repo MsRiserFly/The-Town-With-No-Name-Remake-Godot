@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://cbmngfi73tvr2"
+path="res://.godot/imported/main_menu sprite bitmap.png-02d0c03398a6d80209b741013eaf7e7a.res"
+
+[deps]
+
+source_file="res://assets/animated cutscene/main menu/main menu sprite/main_menu sprite bitmap.png"
+dest_files=["res://.godot/imported/main_menu sprite bitmap.png-02d0c03398a6d80209b741013eaf7e7a.res"]
+
+[params]
+
+create_from=0
+threshold=0.0

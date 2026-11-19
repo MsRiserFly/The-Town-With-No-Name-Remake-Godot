@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cy12pmn80qf8q"
+path="res://.godot/imported/DEATHMARCH.ogg-50a35491cf418269dfb6fc68dc79f920.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/audio/music/walk into town/DEATHMARCH.ogg"
+dest_files=["res://.godot/imported/DEATHMARCH.ogg-50a35491cf418269dfb6fc68dc79f920.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

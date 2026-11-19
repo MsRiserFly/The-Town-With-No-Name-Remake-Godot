@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://b7c2lfgmepypr"]
+
+[ext_resource type="Script" uid="uid://coydaeusredad" path="res://scenes/intro ch 1/train to right far/train coming.gd" id="1_qpu4c"]
+[ext_resource type="SpriteFrames" uid="uid://dl54v5hl7flqo" path="res://resource/spriteframes/intro ch1/train to right far.tres" id="2_mg7pe"]
+[ext_resource type="SpriteFrames" uid="uid://cec4kna2uloae" path="res://resource/spriteframes/intro ch1/train_inside_pov.tres" id="3_dch8b"]
+[ext_resource type="SpriteFrames" uid="uid://nd2t2ubftvuw" path="res://resource/spriteframes/intro ch1/train_rotation_view.tres" id="4_13kvq"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" unique_id=576153690]
+autoplay = "default"
+script = ExtResource("1_qpu4c")
+next_scene_path = "res://scenes/intro ch 1/notshane get out train/shane gets out of train.tscn"
+sprite_array = Array[SpriteFrames]([ExtResource("2_mg7pe"), ExtResource("3_dch8b"), ExtResource("4_13kvq")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

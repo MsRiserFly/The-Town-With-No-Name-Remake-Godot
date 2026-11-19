@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://cu1ayweroh3o5"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_u7a1k"]
+[ext_resource type="SpriteFrames" uid="uid://cmv0rdfk237a1" path="res://resource/spriteframes/intro ch1/notshane talking to oldtimer.tres" id="2_ggi12"]
+[ext_resource type="SpriteFrames" uid="uid://47vo4olmh75m" path="res://resource/spriteframes/intro ch1/old timer talking.tres" id="3_447w6"]
+[ext_resource type="SpriteFrames" uid="uid://dmvmiq6pinojb" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/online interactive.tres" id="4_u1us0"]
+[ext_resource type="SpriteFrames" uid="uid://chs1nkc4837mg" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/delta 4 interactive.tres" id="5_8kf0v"]
+[ext_resource type="SpriteFrames" uid="uid://cqmutx364nqls" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/town with no name title vertical join.tres" id="6_3takx"]
+[ext_resource type="SpriteFrames" uid="uid://b50vhquswu2h0" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/from an idea.tres" id="7_txj2f"]
+[ext_resource type="SpriteFrames" uid="uid://c6nlmlv1w0ejw" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/characterisation 2.tres" id="8_vv5gb"]
+[ext_resource type="SpriteFrames" uid="uid://cfxwo58sxecbx" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/characterisation.tres" id="9_fw2qi"]
+[ext_resource type="SpriteFrames" uid="uid://u2ossnmurtys" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/music by jester.tres" id="10_iw27q"]
+[ext_resource type="SpriteFrames" uid="uid://inj2sonqe8fm" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/technincal director.tres" id="11_jsbct"]
+[ext_resource type="SpriteFrames" uid="uid://b421y7qo5aie4" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/executive producer.tres" id="12_7rtnn"]
+[ext_resource type="SpriteFrames" uid="uid://beygjxvsdig1a" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/producer.tres" id="13_khnmv"]
+[ext_resource type="SpriteFrames" uid="uid://vojtlr5v1div" path="res://resource/spriteframes/intro ch1/notshane after getting out credits/animated and riected.tres" id="14_ls8d0"]
+
+[node name="AnimatedCutsceneSprite2D_sprite_array" type="AnimatedSprite2D" unique_id=1545160259]
+script = ExtResource("1_u7a1k")
+sprite_array = Array[SpriteFrames]([ExtResource("2_ggi12"), ExtResource("3_447w6"), ExtResource("4_u1us0"), ExtResource("5_8kf0v"), ExtResource("6_3takx"), ExtResource("7_txj2f"), ExtResource("8_vv5gb"), ExtResource("9_fw2qi"), ExtResource("10_iw27q"), ExtResource("11_jsbct"), ExtResource("12_7rtnn"), ExtResource("13_khnmv"), ExtResource("14_ls8d0")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

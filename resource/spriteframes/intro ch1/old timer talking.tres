@@ -1,0 +1,90 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://47vo4olmh75m"]
+
+[ext_resource type="Texture2D" uid="uid://dcvkeyi7ungq2" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_1.png" id="1_8a8ga"]
+[ext_resource type="Texture2D" uid="uid://bmr4l8ie3y8ks" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_2.png" id="2_uqvy3"]
+[ext_resource type="Texture2D" uid="uid://cq7gpjcekltaa" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_3.png" id="3_tr42o"]
+[ext_resource type="Texture2D" uid="uid://b7gw2dvwum25r" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_4.png" id="4_l6cox"]
+[ext_resource type="Texture2D" uid="uid://brs4rrtbhfggh" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_5.png" id="5_u636i"]
+[ext_resource type="Texture2D" uid="uid://dlpuyxoscodsl" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_6.png" id="6_u5bvo"]
+[ext_resource type="Texture2D" uid="uid://dnabifpona8pc" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_7.png" id="7_4cmxf"]
+[ext_resource type="Texture2D" uid="uid://ifu51564u48f" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_8.png" id="8_l5jx7"]
+[ext_resource type="Texture2D" uid="uid://dm0hnttis2c8m" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_9.png" id="9_bcpwg"]
+[ext_resource type="Texture2D" uid="uid://gotg7d1m4n5r" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_10.png" id="10_c8ymn"]
+[ext_resource type="Texture2D" uid="uid://bcofnk2fwckch" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_11.png" id="11_m5tgh"]
+[ext_resource type="Texture2D" uid="uid://d2myo2t8q2xmc" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_12.png" id="12_1al7k"]
+[ext_resource type="Texture2D" uid="uid://bj3urxedtbtej" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_13.png" id="13_cq3cw"]
+[ext_resource type="Texture2D" uid="uid://b55pmnd7uivbu" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_14.png" id="14_23hql"]
+[ext_resource type="Texture2D" uid="uid://ddwj0tgukjm4b" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_15.png" id="15_uq4pn"]
+[ext_resource type="Texture2D" uid="uid://cr7ii1uhb0df8" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_16.png" id="16_5feed"]
+[ext_resource type="Texture2D" uid="uid://bq8cfe6x7yj6n" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_17.png" id="17_in43v"]
+[ext_resource type="Texture2D" uid="uid://cm633rp048nl2" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_18.png" id="18_j1433"]
+[ext_resource type="Texture2D" uid="uid://bai6mgjtmwglp" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_19.png" id="19_w7oj6"]
+[ext_resource type="Texture2D" uid="uid://d02dxub4ibbch" path="res://assets/animated cutscene/intro prologue ch0/old timer talking/OLDTIMERANIM_20.png" id="20_8jxey"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8a8ga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_uqvy3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_tr42o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_l6cox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_u636i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_u5bvo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_4cmxf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_l5jx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_bcpwg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_c8ymn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_m5tgh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_1al7k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_cq3cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_23hql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_uq4pn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_5feed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_in43v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_j1433")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_w7oj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_8jxey")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

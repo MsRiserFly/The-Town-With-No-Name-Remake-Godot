@@ -1,0 +1,154 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://u2ossnmurtys"]
+
+[ext_resource type="Texture2D" uid="uid://1jmy1f45udr3" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_1.png" id="1_riqju"]
+[ext_resource type="Texture2D" uid="uid://biasarxtfsolw" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_2.png" id="2_vbyi2"]
+[ext_resource type="Texture2D" uid="uid://bvfesw4gvsuko" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_3.png" id="3_qx0br"]
+[ext_resource type="Texture2D" uid="uid://8ei2l11nit4y" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_4.png" id="4_f1jl2"]
+[ext_resource type="Texture2D" uid="uid://46y0e4aqlvca" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_5.png" id="5_fo1f4"]
+[ext_resource type="Texture2D" uid="uid://ddve7m741e6eu" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_6.png" id="6_h56pe"]
+[ext_resource type="Texture2D" uid="uid://d3krcvpj2ldqb" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_7.png" id="7_7hspu"]
+[ext_resource type="Texture2D" uid="uid://brdobo3sb2034" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_8.png" id="8_2mss7"]
+[ext_resource type="Texture2D" uid="uid://1tao3pxmsec" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_9.png" id="9_cokeq"]
+[ext_resource type="Texture2D" uid="uid://7aithhhxeux5" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_10.png" id="10_xr3oq"]
+[ext_resource type="Texture2D" uid="uid://b2ljeac84eu7y" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_11.png" id="11_h456a"]
+[ext_resource type="Texture2D" uid="uid://d24i2yl3vowbe" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_12.png" id="12_e2k4s"]
+[ext_resource type="Texture2D" uid="uid://3vm7o7qicvrh" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_13.png" id="13_lramn"]
+[ext_resource type="Texture2D" uid="uid://co27gisydqe3p" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_14.png" id="14_evm3n"]
+[ext_resource type="Texture2D" uid="uid://b605asns6thek" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_15.png" id="15_6k327"]
+[ext_resource type="Texture2D" uid="uid://dtgbyb8ww4g6r" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_16.png" id="16_mr74y"]
+[ext_resource type="Texture2D" uid="uid://dsnsnlpscbe2q" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_17.png" id="17_d7i8n"]
+[ext_resource type="Texture2D" uid="uid://cq5i8srxgwmc" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_18.png" id="18_p3ini"]
+[ext_resource type="Texture2D" uid="uid://lyoauyq3h400" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_19.png" id="19_5dlhd"]
+[ext_resource type="Texture2D" uid="uid://bdyhxtaruripa" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_20.png" id="20_lh312"]
+[ext_resource type="Texture2D" uid="uid://legul85wu31d" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_21.png" id="21_8wkhv"]
+[ext_resource type="Texture2D" uid="uid://ci8mw3506h11o" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_22.png" id="22_la4kd"]
+[ext_resource type="Texture2D" uid="uid://buqgv1hly7q70" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_23.png" id="23_5hwcs"]
+[ext_resource type="Texture2D" uid="uid://cfbhi3htf86h0" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_24.png" id="24_uq3m0"]
+[ext_resource type="Texture2D" uid="uid://jgxal12ons30" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_25.png" id="25_qq1wf"]
+[ext_resource type="Texture2D" uid="uid://2k1t0f3lvavx" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_26.png" id="26_1j6ue"]
+[ext_resource type="Texture2D" uid="uid://caw8twj6eafho" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_27.png" id="27_2jvf3"]
+[ext_resource type="Texture2D" uid="uid://bpygf2m2lqvvv" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_28.png" id="28_c5aji"]
+[ext_resource type="Texture2D" uid="uid://di2ao0epu67w" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_29.png" id="29_jeief"]
+[ext_resource type="Texture2D" uid="uid://cp0vn0128pggj" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_30.png" id="30_a6jgx"]
+[ext_resource type="Texture2D" uid="uid://r02qbfndmdeg" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_31.png" id="31_haikr"]
+[ext_resource type="Texture2D" uid="uid://dr7imrkaua0x7" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_32.png" id="32_lh0rw"]
+[ext_resource type="Texture2D" uid="uid://d27365406pnlo" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_33.png" id="33_0qaok"]
+[ext_resource type="Texture2D" uid="uid://b5ub63jvmcdux" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_34.png" id="34_yv266"]
+[ext_resource type="Texture2D" uid="uid://r4pox3iygx3r" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_35.png" id="35_3vhky"]
+[ext_resource type="Texture2D" uid="uid://bw7kpnmbvnc3q" path="res://assets/animated cutscene/intro prologue ch0/musicby credit/MUSICBY_McJp_36.png" id="36_68ncn"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_riqju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_vbyi2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_qx0br")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_f1jl2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_fo1f4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_h56pe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_7hspu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_2mss7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_cokeq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_xr3oq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_h456a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_e2k4s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_lramn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_evm3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_6k327")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_mr74y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_d7i8n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_p3ini")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_5dlhd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_lh312")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_8wkhv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_la4kd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_5hwcs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_uq3m0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_qq1wf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_1j6ue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_2jvf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_c5aji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_jeief")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_a6jgx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_haikr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_lh0rw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_0qaok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_yv266")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_3vhky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_68ncn")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

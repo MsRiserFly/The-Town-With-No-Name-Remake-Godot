@@ -1,0 +1,86 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://cmv0rdfk237a1"]
+
+[ext_resource type="Texture2D" uid="uid://d1c7ld6qugdwh" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_1.png" id="1_inxfm"]
+[ext_resource type="Texture2D" uid="uid://bkd0yi2bwfp0n" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_2.png" id="2_xmyg6"]
+[ext_resource type="Texture2D" uid="uid://cgpcv6w3ilx4q" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_3.png" id="3_38484"]
+[ext_resource type="Texture2D" uid="uid://cnv6o00goq5pd" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_4.png" id="4_jt3cn"]
+[ext_resource type="Texture2D" uid="uid://dpp0f2yv3usjq" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_5.png" id="5_436ju"]
+[ext_resource type="Texture2D" uid="uid://3f02ow2ix4bo" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_6.png" id="6_wbsth"]
+[ext_resource type="Texture2D" uid="uid://dkj8wohmb3pp" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_7.png" id="7_j85mh"]
+[ext_resource type="Texture2D" uid="uid://ctmo5j5vkihdv" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_8.png" id="8_jrelh"]
+[ext_resource type="Texture2D" uid="uid://hfpr26ispm8b" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_9.png" id="9_08o0y"]
+[ext_resource type="Texture2D" uid="uid://c3w6vej33ir08" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_10.png" id="10_agcnc"]
+[ext_resource type="Texture2D" uid="uid://b62mnihnoa5wp" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_11.png" id="11_syvtu"]
+[ext_resource type="Texture2D" uid="uid://lbwjaajtrjmt" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_12.png" id="12_ts2wn"]
+[ext_resource type="Texture2D" uid="uid://oukb2128oxwp" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_13.png" id="13_tr7e0"]
+[ext_resource type="Texture2D" uid="uid://mcoetutx505x" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_14.png" id="14_mn1bv"]
+[ext_resource type="Texture2D" uid="uid://4iebxpaj4nys" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_15.png" id="15_wn8db"]
+[ext_resource type="Texture2D" uid="uid://ruuolo8t7kv1" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_16.png" id="16_67kc0"]
+[ext_resource type="Texture2D" uid="uid://blk6yawa4rhwp" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_17.png" id="17_beqyd"]
+[ext_resource type="Texture2D" uid="uid://cafgppktedo47" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_18.png" id="18_nhpo0"]
+[ext_resource type="Texture2D" uid="uid://b81wxu0q8l1i2" path="res://assets/animated cutscene/intro prologue ch0/not shane talking to old timer/MANTALKONPLATANIM_002_McJp_19.png" id="19_dpfqv"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_inxfm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_xmyg6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_38484")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_jt3cn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_436ju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_wbsth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_j85mh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_jrelh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_08o0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_agcnc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_syvtu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ts2wn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_tr7e0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_mn1bv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wn8db")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_67kc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_beqyd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_nhpo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_dpfqv")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

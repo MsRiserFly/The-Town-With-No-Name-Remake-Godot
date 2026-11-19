@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://csvoshn7xk8e8"]
+
+[ext_resource type="Texture2D" uid="uid://rcctj6traycx" path="res://assets/animated cutscene/intro prologue ch0/select menu 0/1STWHATNOW_McJp.png" id="1_mhwk4"]
+[ext_resource type="Script" uid="uid://drdvtsuto1oal" path="res://scenes/intro ch 1/choice menu/coctos.gd" id="2_lh515"]
+
+[node name="WhereNowIntro" type="TextureRect" unique_id=420098571]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_mhwk4")
+
+[node name="1 get back on train" type="Area2D" parent="." unique_id=917260456]
+
+[node name="2 head on into town" type="Area2D" parent="." unique_id=1167430017]
+
+[node name="3 talk to the older timer" type="Area2D" parent="." unique_id=1374954725]
+
+[node name="coctos" type="Area2D" parent="." unique_id=1887487187]
+script = ExtResource("2_lh515")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="coctos" unique_id=389821387]
+polygon = PackedVector2Array(96, 36, 48, 277, 59, 310, 86, 329, 81, 391, 96, 408, 134, 407, 101, 594, 154, 598, 204, 589, 218, 463, 349, 462, 386, 436, 393, 224, 376, 215, 363, 227, 345, 432, 222, 430, 257, 144, 241, 120, 218, 106, 184, 113, 171, 139, 147, 307, 131, 304, 146, 191, 134, 181, 116, 184, 141, 50, 129, 30, 110, 29)

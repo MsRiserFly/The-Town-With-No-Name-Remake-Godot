@@ -10,8 +10,8 @@ class_name AnimatedCutsceneSprite2D_censored
 func _ready() -> void:
 	super()
 	#print("censord is ready")
-	_change_censored_sprite()
 	_configure_spriteframes()
+	_change_censored_sprite()
 	play()
 	
 func _change_censored_sprite():

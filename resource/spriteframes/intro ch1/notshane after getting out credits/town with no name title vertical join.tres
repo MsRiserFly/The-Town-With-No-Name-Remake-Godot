@@ -1,0 +1,158 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://cqmutx364nqls"]
+
+[ext_resource type="Texture2D" uid="uid://6ocq4fmt6sjg" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_1.png" id="1_ftjcg"]
+[ext_resource type="Texture2D" uid="uid://dipyaejwnn2b4" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_2.png" id="2_e7pds"]
+[ext_resource type="Texture2D" uid="uid://c5ijqult67trn" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_3.png" id="3_t5hj5"]
+[ext_resource type="Texture2D" uid="uid://dd4qrc4tafkmq" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_4.png" id="4_6xk4v"]
+[ext_resource type="Texture2D" uid="uid://2cfhmh6842ut" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_5.png" id="5_3di7n"]
+[ext_resource type="Texture2D" uid="uid://b8miwwkqorxa6" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_6.png" id="6_vgyvb"]
+[ext_resource type="Texture2D" uid="uid://b5l370xfaqt17" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_7.png" id="7_lgwd1"]
+[ext_resource type="Texture2D" uid="uid://bli6d4vmbpond" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_8.png" id="8_4wesk"]
+[ext_resource type="Texture2D" uid="uid://bwg7uxtqr5mov" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_9.png" id="9_07ygv"]
+[ext_resource type="Texture2D" uid="uid://op3068w8dmto" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_10.png" id="10_wpg2n"]
+[ext_resource type="Texture2D" uid="uid://yslg4x6fqadj" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_11.png" id="11_kjrkh"]
+[ext_resource type="Texture2D" uid="uid://cvxkc1f8qkvvq" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_12.png" id="12_elw8q"]
+[ext_resource type="Texture2D" uid="uid://b544sb1a701dx" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_13.png" id="13_vis4o"]
+[ext_resource type="Texture2D" uid="uid://bof1ls662g4f0" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_14.png" id="14_bstnp"]
+[ext_resource type="Texture2D" uid="uid://u7tapc1lykuk" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_15.png" id="15_2nbjh"]
+[ext_resource type="Texture2D" uid="uid://bvk0wowhle5en" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_16.png" id="16_s3j1v"]
+[ext_resource type="Texture2D" uid="uid://by821xhcsi5dj" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_17.png" id="17_jx3k7"]
+[ext_resource type="Texture2D" uid="uid://duinyf21urtsg" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_18.png" id="18_c3t17"]
+[ext_resource type="Texture2D" uid="uid://btqw0lvkkgjv6" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_19.png" id="19_rrj0g"]
+[ext_resource type="Texture2D" uid="uid://bqllqy4xu8fml" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_20.png" id="20_nleq8"]
+[ext_resource type="Texture2D" uid="uid://b333asu8h5b0s" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_21.png" id="21_3lyyb"]
+[ext_resource type="Texture2D" uid="uid://v0t7unrafcpg" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_22.png" id="22_ftms8"]
+[ext_resource type="Texture2D" uid="uid://d1vg15xcyriuy" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_23.png" id="23_tp7pr"]
+[ext_resource type="Texture2D" uid="uid://c6p0hl7vxcx2w" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_24.png" id="24_hyrqq"]
+[ext_resource type="Texture2D" uid="uid://bjy0y8ogclu2" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_25.png" id="25_1e3bc"]
+[ext_resource type="Texture2D" uid="uid://d0qyanofgrlq0" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_26.png" id="26_usgri"]
+[ext_resource type="Texture2D" uid="uid://cn5g6iqu8awil" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_27.png" id="27_rdwh3"]
+[ext_resource type="Texture2D" uid="uid://cg8gdo3y0wv6o" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_28.png" id="28_o0gxo"]
+[ext_resource type="Texture2D" uid="uid://c37mpswege4lf" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_29.png" id="29_scvo5"]
+[ext_resource type="Texture2D" uid="uid://c1ofm5bn3pbr0" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_30.png" id="30_w4jmp"]
+[ext_resource type="Texture2D" uid="uid://bwnlcle53hmen" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_31.png" id="31_h02fx"]
+[ext_resource type="Texture2D" uid="uid://b6hthhrnovi8c" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_32.png" id="32_lwvj6"]
+[ext_resource type="Texture2D" uid="uid://boxln15w6uf3q" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_33.png" id="33_ecim3"]
+[ext_resource type="Texture2D" uid="uid://cq1or7fane5p4" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_34.png" id="34_v6wc8"]
+[ext_resource type="Texture2D" uid="uid://ckk34o4cn7siv" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_35.png" id="35_auqyy"]
+[ext_resource type="Texture2D" uid="uid://dbncu18pxomgp" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_36.png" id="36_nrh11"]
+[ext_resource type="Texture2D" uid="uid://bfbf73xmd40o5" path="res://assets/animated cutscene/intro prologue ch0/ttwnn credit intro split top down/TITLESPLIT_McJp_37.png" id="37_uoajb"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ftjcg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_e7pds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_t5hj5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_6xk4v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_3di7n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_vgyvb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_lgwd1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_4wesk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_07ygv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_wpg2n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_kjrkh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_elw8q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_vis4o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_bstnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_2nbjh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_s3j1v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_jx3k7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_c3t17")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_rrj0g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_nleq8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_3lyyb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_ftms8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_tp7pr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_hyrqq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_1e3bc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_usgri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_rdwh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_o0gxo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_scvo5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_w4jmp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_h02fx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_lwvj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ecim3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_v6wc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_auqyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_nrh11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_uoajb")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

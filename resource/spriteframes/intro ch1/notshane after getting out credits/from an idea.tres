@@ -1,0 +1,154 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://b50vhquswu2h0"]
+
+[ext_resource type="Texture2D" uid="uid://bba7xakf6h4bb" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_1.png" id="1_hdfk3"]
+[ext_resource type="Texture2D" uid="uid://34voqs5dy63w" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_2.png" id="2_67hw5"]
+[ext_resource type="Texture2D" uid="uid://7nmsu3iyxj02" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_3.png" id="3_pbpg6"]
+[ext_resource type="Texture2D" uid="uid://dimwnt8kpidf4" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_4.png" id="4_7ijkg"]
+[ext_resource type="Texture2D" uid="uid://cjg1fwkg48l2u" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_5.png" id="5_kcckr"]
+[ext_resource type="Texture2D" uid="uid://f1gge5gmjf26" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_6.png" id="6_d4wv2"]
+[ext_resource type="Texture2D" uid="uid://bkvuev2nlg3dh" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_7.png" id="7_jswg6"]
+[ext_resource type="Texture2D" uid="uid://ci8c1xy28yu01" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_8.png" id="8_6gbh7"]
+[ext_resource type="Texture2D" uid="uid://c12ed8mp7wi8c" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_9.png" id="9_uny13"]
+[ext_resource type="Texture2D" uid="uid://b3q5heevpdboy" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_10.png" id="10_15aih"]
+[ext_resource type="Texture2D" uid="uid://dyp4i6t3uibnc" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_11.png" id="11_djtxv"]
+[ext_resource type="Texture2D" uid="uid://74kfjhntun8p" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_12.png" id="12_vi1xe"]
+[ext_resource type="Texture2D" uid="uid://ccrbe1jmmpimw" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_13.png" id="13_oslqk"]
+[ext_resource type="Texture2D" uid="uid://b486v80x6fclt" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_14.png" id="14_j5oc0"]
+[ext_resource type="Texture2D" uid="uid://c3uvx32yf5y6d" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_15.png" id="15_sy87t"]
+[ext_resource type="Texture2D" uid="uid://dlxqwgi0ny2f1" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_16.png" id="16_jerup"]
+[ext_resource type="Texture2D" uid="uid://rw4vklt8s4ed" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_17.png" id="17_6stjm"]
+[ext_resource type="Texture2D" uid="uid://cjpx26jca1ln1" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_18.png" id="18_xr3qm"]
+[ext_resource type="Texture2D" uid="uid://ci2yfd4vpsh01" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_19.png" id="19_xgtpy"]
+[ext_resource type="Texture2D" uid="uid://cw6jeflqvbt0i" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_20.png" id="20_325pd"]
+[ext_resource type="Texture2D" uid="uid://2mqkmwhx4gog" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_21.png" id="21_7s1nn"]
+[ext_resource type="Texture2D" uid="uid://c6dpoa7ibr7ef" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_22.png" id="22_8chkf"]
+[ext_resource type="Texture2D" uid="uid://8vvhoqf0vl07" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_23.png" id="23_rnev0"]
+[ext_resource type="Texture2D" uid="uid://duwf4siiyayqv" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_24.png" id="24_e5b75"]
+[ext_resource type="Texture2D" uid="uid://dw06xk88anoqr" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_25.png" id="25_18olw"]
+[ext_resource type="Texture2D" uid="uid://coma0fy2kdwy" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_26.png" id="26_yodqu"]
+[ext_resource type="Texture2D" uid="uid://ciftucq604nug" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_27.png" id="27_o0l1l"]
+[ext_resource type="Texture2D" uid="uid://bbqwi87foeylx" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_28.png" id="28_qb2u0"]
+[ext_resource type="Texture2D" uid="uid://bajj007srpa7b" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_29.png" id="29_bui1f"]
+[ext_resource type="Texture2D" uid="uid://djqekmawmbdiw" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_30.png" id="30_8mknb"]
+[ext_resource type="Texture2D" uid="uid://gy4l4b6o56o0" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_31.png" id="31_imm83"]
+[ext_resource type="Texture2D" uid="uid://b1uqp04btpfkq" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_32.png" id="32_skmuj"]
+[ext_resource type="Texture2D" uid="uid://c21n3wkelnwjt" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_33.png" id="33_wid8c"]
+[ext_resource type="Texture2D" uid="uid://boox2b520blrr" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_34.png" id="34_2cgqn"]
+[ext_resource type="Texture2D" uid="uid://clmjxq3iucmh" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_35.png" id="35_74uct"]
+[ext_resource type="Texture2D" uid="uid://bexjyk70t7uar" path="res://assets/animated cutscene/intro prologue ch0/from idea creddit/FROMIDEA_McJp_36.png" id="36_31wkf"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_hdfk3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_67hw5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_pbpg6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_7ijkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_kcckr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_d4wv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_jswg6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_6gbh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_uny13")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_15aih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_djtxv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_vi1xe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_oslqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_j5oc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_sy87t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_jerup")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_6stjm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_xr3qm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_xgtpy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_325pd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_7s1nn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_8chkf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_rnev0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_e5b75")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_18olw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_yodqu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_o0l1l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_qb2u0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_bui1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_8mknb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_imm83")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_skmuj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_wid8c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_2cgqn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_74uct")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_31wkf")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

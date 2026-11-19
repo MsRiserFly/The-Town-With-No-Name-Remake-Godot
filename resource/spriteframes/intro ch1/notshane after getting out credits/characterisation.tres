@@ -1,0 +1,154 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://cfxwo58sxecbx"]
+
+[ext_resource type="Texture2D" uid="uid://cdx1o836sb3fh" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_1.png" id="1_p6sp7"]
+[ext_resource type="Texture2D" uid="uid://bvsxpw3wrq6te" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_2.png" id="2_ypcej"]
+[ext_resource type="Texture2D" uid="uid://bldvtiyrsae4d" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_3.png" id="3_gqg83"]
+[ext_resource type="Texture2D" uid="uid://c33yeb7myilpb" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_4.png" id="4_cqr32"]
+[ext_resource type="Texture2D" uid="uid://bkbo8ef4d7e4a" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_5.png" id="5_amkv2"]
+[ext_resource type="Texture2D" uid="uid://bturxlx45behh" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_6.png" id="6_fx8a2"]
+[ext_resource type="Texture2D" uid="uid://bvqck7rtlsqm3" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_7.png" id="7_xmwi6"]
+[ext_resource type="Texture2D" uid="uid://y3bivqog4310" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_8.png" id="8_0bfcl"]
+[ext_resource type="Texture2D" uid="uid://d2fq2xxvqmpoh" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_9.png" id="9_r5llw"]
+[ext_resource type="Texture2D" uid="uid://3bih1frxt5yd" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_10.png" id="10_s0dts"]
+[ext_resource type="Texture2D" uid="uid://bj7hnol81ssc4" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_11.png" id="11_tesd5"]
+[ext_resource type="Texture2D" uid="uid://dg8opoi3eenll" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_12.png" id="12_d5oit"]
+[ext_resource type="Texture2D" uid="uid://dqiopai6ul66v" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_13.png" id="13_4ex8t"]
+[ext_resource type="Texture2D" uid="uid://bnea728uewb53" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_14.png" id="14_bh5ce"]
+[ext_resource type="Texture2D" uid="uid://cwucnl0qepblm" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_15.png" id="15_5b83c"]
+[ext_resource type="Texture2D" uid="uid://bmneinjscph4q" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_16.png" id="16_7kwt4"]
+[ext_resource type="Texture2D" uid="uid://mgxo4p4rm5iw" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_17.png" id="17_21m5g"]
+[ext_resource type="Texture2D" uid="uid://bnik1eqpbsrbn" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_18.png" id="18_o2hao"]
+[ext_resource type="Texture2D" uid="uid://cvyyf0okfvdre" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_19.png" id="19_2cc7g"]
+[ext_resource type="Texture2D" uid="uid://dpekgh804js1a" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_20.png" id="20_he7ei"]
+[ext_resource type="Texture2D" uid="uid://c26asgx2vo60i" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_21.png" id="21_i0e5w"]
+[ext_resource type="Texture2D" uid="uid://cmlvsergrt8n7" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_22.png" id="22_rwh2u"]
+[ext_resource type="Texture2D" uid="uid://cn44kxf8duq6a" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_23.png" id="23_6dwuj"]
+[ext_resource type="Texture2D" uid="uid://dwmichbcaew8b" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_24.png" id="24_q20rf"]
+[ext_resource type="Texture2D" uid="uid://mmqolrqvikhm" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_25.png" id="25_fh820"]
+[ext_resource type="Texture2D" uid="uid://dgsdop8uwx26x" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_26.png" id="26_df88f"]
+[ext_resource type="Texture2D" uid="uid://bl1p24y4bcbdj" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_27.png" id="27_m7ri5"]
+[ext_resource type="Texture2D" uid="uid://dcngafymvecxa" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_28.png" id="28_5d1w7"]
+[ext_resource type="Texture2D" uid="uid://dit12irqqlsqm" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_29.png" id="29_4jt5y"]
+[ext_resource type="Texture2D" uid="uid://b0klqrlnrmk3c" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_30.png" id="30_0rtkk"]
+[ext_resource type="Texture2D" uid="uid://dy2xw7pl8t1a0" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_31.png" id="31_0qkg1"]
+[ext_resource type="Texture2D" uid="uid://b7blo6xm7kwin" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_32.png" id="32_gsyqe"]
+[ext_resource type="Texture2D" uid="uid://ddwy22ok360xm" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_33.png" id="33_vd5yh"]
+[ext_resource type="Texture2D" uid="uid://drdm6k5unmq8d" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_34.png" id="34_inc3w"]
+[ext_resource type="Texture2D" uid="uid://i2dbj20uv8qd" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_35.png" id="35_li4tt"]
+[ext_resource type="Texture2D" uid="uid://dwgwtsskde8mk" path="res://assets/animated cutscene/intro prologue ch0/characters1 credit/CHARACTER1_McJp_36.png" id="36_k51gq"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_p6sp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ypcej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_gqg83")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_cqr32")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_amkv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_fx8a2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_xmwi6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_0bfcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_r5llw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_s0dts")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_tesd5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_d5oit")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_4ex8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_bh5ce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_5b83c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_7kwt4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_21m5g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_o2hao")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_2cc7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_he7ei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_i0e5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_rwh2u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_6dwuj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_q20rf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_fh820")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_df88f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_m7ri5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_5d1w7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_4jt5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_0rtkk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_0qkg1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_gsyqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_vd5yh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_inc3w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_li4tt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_k51gq")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

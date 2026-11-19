@@ -3,6 +3,8 @@ class_name AnimatedCutsceneSprite2D_sprite_array
 
 signal sprite_array_finished
 
+@export_file_path("*.tscn") var next_scene_path
+
 @export var sprite_array : Array[SpriteFrames]
 @export var index_sprite_array : int = 0
 
@@ -36,6 +38,7 @@ func _next_animation():
 		sprite_array_finished.emit()
 
 func _configure_spriteframes():
+	_fit_frame_size_to_viewport()
 	if sprite_frames:
 		#set loop mode false
 		sprite_frames.set_animation_loop_mode(sprite_frames.get_animation_names()[0],SpriteFrames.LOOP_NONE)
@@ -47,3 +50,5 @@ func _unhandled_input(event: InputEvent) -> void:
 
 func _on_sprite_array_finished():
 	print("parent empty sprite array finished")
+	if next_scene_path:
+		get_tree().change_scene_to_file(next_scene_path)

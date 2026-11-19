@@ -23,7 +23,8 @@ but note to mention i learned some of the feautres and coding tips from ai and s
 you can use, share, edit, do whatever you want with the code
 
 # thanks to
-- halfofbilly for converting all assets to modern data format
+- halfofbilly for converting all assets to modern data format  
+https://halfofbilly.com/ttwnn/
 
 # licensing
 I do not own assets of this game neither the images used or audios used are belong to delta 4 interactive and their respective owners.

@@ -1,0 +1,236 @@
+[gd_scene format=3 uid="uid://d3n7vbmxcdjgb"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_vwfdg"]
+[ext_resource type="Texture2D" uid="uid://cjc135nc4vh62" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_1.png" id="2_ylg4t"]
+[ext_resource type="Texture2D" uid="uid://5komceqovaiv" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_2.png" id="3_8dhyg"]
+[ext_resource type="Texture2D" uid="uid://cnx7g1eosshh5" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_3.png" id="4_ip58d"]
+[ext_resource type="Texture2D" uid="uid://cwq6kmy7035rd" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_4.png" id="5_jdssk"]
+[ext_resource type="Texture2D" uid="uid://jk5er45ixrby" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_5.png" id="6_bmbd6"]
+[ext_resource type="Texture2D" uid="uid://dtumplkxvmbvw" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_6.png" id="7_3rjy5"]
+[ext_resource type="Texture2D" uid="uid://yyfenodsmxlp" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_7.png" id="8_h7rpc"]
+[ext_resource type="Texture2D" uid="uid://boqf4gdm3ffgu" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_8.png" id="9_irit6"]
+[ext_resource type="Texture2D" uid="uid://brv435ribeqjt" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_9.png" id="10_ulyuo"]
+[ext_resource type="Texture2D" uid="uid://dstuv5txx55bi" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_10.png" id="11_d1s2p"]
+[ext_resource type="Texture2D" uid="uid://xycyr3uprdxc" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_11.png" id="12_8yvsb"]
+[ext_resource type="Texture2D" uid="uid://27gtmc1onls4" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_12.png" id="13_q5fpx"]
+[ext_resource type="Texture2D" uid="uid://dg1tj3to7qf0b" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_13.png" id="14_caswv"]
+[ext_resource type="Texture2D" uid="uid://bymjrk6xit2i3" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_14.png" id="15_ekg55"]
+[ext_resource type="Texture2D" uid="uid://clj3qsd48moxu" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_15.png" id="16_kwd52"]
+[ext_resource type="Texture2D" uid="uid://dubeo5u3bmybc" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_16.png" id="17_wwmgl"]
+[ext_resource type="Texture2D" uid="uid://cm3cxk2i4xphi" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_17.png" id="18_hwvn5"]
+[ext_resource type="Texture2D" uid="uid://dvsq22a028nmu" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_18.png" id="19_1ra1a"]
+[ext_resource type="Texture2D" uid="uid://b7jf2qqu0cbq0" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_19.png" id="20_fs88m"]
+[ext_resource type="Texture2D" uid="uid://cfkorakcduy86" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_20.png" id="21_0vmeb"]
+[ext_resource type="Texture2D" uid="uid://c400rcvuty544" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_21.png" id="22_0lmca"]
+[ext_resource type="Texture2D" uid="uid://b5b08a2g4tp6g" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_22.png" id="23_y5prw"]
+[ext_resource type="Texture2D" uid="uid://duatxw1ehg40s" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_23.png" id="24_lydp0"]
+[ext_resource type="Texture2D" uid="uid://bamglyfy0dg70" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_24.png" id="25_tu245"]
+[ext_resource type="Texture2D" uid="uid://prpjwyvgxeyk" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_25.png" id="26_s2ov0"]
+[ext_resource type="Texture2D" uid="uid://d3enm7k2eclp8" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_26.png" id="27_2aajh"]
+[ext_resource type="Texture2D" uid="uid://m2kitco47ns" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_27.png" id="28_dqw8d"]
+[ext_resource type="Texture2D" uid="uid://cvvmbfkyqwt8i" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_28.png" id="29_ji1x6"]
+[ext_resource type="Texture2D" uid="uid://w8lkv6i6tri7" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_29.png" id="30_l67wh"]
+[ext_resource type="Texture2D" uid="uid://boruu7f7hdd24" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_30.png" id="31_4sie5"]
+[ext_resource type="Texture2D" uid="uid://c8pl0tr1rlpcv" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon entering pan anim/SALOONPANANIM_McJp_31.png" id="32_gqgnq"]
+[ext_resource type="Texture2D" uid="uid://du5ju52ro2s5c" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_1.png" id="33_mu0k8"]
+[ext_resource type="Texture2D" uid="uid://dax5g0pnbv5fp" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_2.png" id="34_os1mr"]
+[ext_resource type="Texture2D" uid="uid://pstwkfld0lhw" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_3.png" id="35_4csab"]
+[ext_resource type="Texture2D" uid="uid://vk6lub56nsea" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_4.png" id="36_a0fkb"]
+[ext_resource type="Texture2D" uid="uid://36xaa4heti32" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_5.png" id="37_v6ufh"]
+[ext_resource type="Texture2D" uid="uid://c6gybbpqq8a6v" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_6.png" id="38_7o0kh"]
+[ext_resource type="Texture2D" uid="uid://dhjhaijt2oxji" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_7.png" id="39_xqqt6"]
+[ext_resource type="Texture2D" uid="uid://b77xykteqdreq" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_8.png" id="40_tjgja"]
+[ext_resource type="Texture2D" uid="uid://c1v2dtg1kvjkn" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_9.png" id="41_8uef1"]
+[ext_resource type="Texture2D" uid="uid://d10c2ce65u1td" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_10.png" id="42_o8yyi"]
+[ext_resource type="Texture2D" uid="uid://dcweui4x8sflh" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_11.png" id="43_g7bfe"]
+[ext_resource type="Texture2D" uid="uid://dsfwd11ouywjl" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_12.png" id="44_uprvk"]
+[ext_resource type="Texture2D" uid="uid://cqgr67mc1720w" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_13.png" id="45_7udij"]
+[ext_resource type="Texture2D" uid="uid://c5m8men2mg3x6" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_14.png" id="46_ng54u"]
+[ext_resource type="Texture2D" uid="uid://cu82bjsj47sgh" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_15.png" id="47_mwr0k"]
+[ext_resource type="Texture2D" uid="uid://bp03wtht4eolu" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_16.png" id="48_los3q"]
+[ext_resource type="Texture2D" uid="uid://bk85dn5iukgpb" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_17.png" id="49_63qx7"]
+[ext_resource type="Texture2D" uid="uid://iriulbfigy7b" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_18.png" id="50_pm1qp"]
+[ext_resource type="Texture2D" uid="uid://tsy56fkihsgw" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_19.png" id="51_jwa82"]
+[ext_resource type="Texture2D" uid="uid://djes81b72k1nr" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_20.png" id="52_25rwu"]
+[ext_resource type="Texture2D" uid="uid://ddsuet43eh6yr" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_21.png" id="53_ac0s2"]
+[ext_resource type="Texture2D" uid="uid://bhttwcb8j7r6m" path="res://assets/animated cutscene/saloon packed folder/saloon intro/saloon inside pan anim/SALOONBARPANANIM_McJp_22.png" id="54_oqvqt"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_mfuo2"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_ylg4t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_8dhyg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ip58d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jdssk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_bmbd6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_3rjy5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_h7rpc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_irit6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ulyuo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_d1s2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_8yvsb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_q5fpx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_caswv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_ekg55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_kwd52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_wwmgl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_hwvn5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_1ra1a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_fs88m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_0vmeb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_0lmca")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_y5prw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_lydp0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_tu245")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_s2ov0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_2aajh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_dqw8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ji1x6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_l67wh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_4sie5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_gqgnq")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_vwfdg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("33_mu0k8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_os1mr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_4csab")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_a0fkb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_v6ufh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_7o0kh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_xqqt6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_tjgja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_8uef1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_o8yyi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_g7bfe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_uprvk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_7udij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_ng54u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_mwr0k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_los3q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_63qx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_pm1qp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_jwa82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_25rwu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ac0s2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_oqvqt")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 12.0
+}]
+
+[node name="SaloonEntrance" type="AnimatedSprite2D" unique_id=167467741]
+script = ExtResource("1_vwfdg")
+sprite_array = Array[SpriteFrames]([SubResource("SpriteFrames_mfuo2"), SubResource("SpriteFrames_vwfdg")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

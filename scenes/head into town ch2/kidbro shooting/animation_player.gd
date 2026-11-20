@@ -1,16 +1,18 @@
 extends AnimationPlayer
+class_name AnimationPlayerInteractive_base
 #Experimental_Animationplayer_animatedcutscene_syncer
-@onready var kidbro_shooting = $'..'
+@export var targeted_sprite : AnimatedSprite2D
 
 func _ready() -> void:
-	if "sprite_frames" in kidbro_shooting:
+	if "sprite_frames" in targeted_sprite:
 		print("test")
-	#if kidbro_shooting.sprite_array:
-		#if kidbro_shooting.sprite_array.size() > 0:
-			#sync_animation_sprite_array(kidbro_shooting.sprite_array)
-	if kidbro_shooting.sprite_frames:
-		if kidbro_shooting.sprite_frames:
-			sync_spriteframes_animationplayer(kidbro_shooting.sprite_frames)
+	#if targeted_sprite.sprite_array:
+		#if targeted_sprite.sprite_array.size() > 0:
+			#sync_animation_sprite_array(targeted_sprite.sprite_array)
+	if targeted_sprite:
+		if targeted_sprite.sprite_frames:
+			if targeted_sprite.sprite_frames:
+				sync_spriteframes_animationplayer(targeted_sprite.sprite_frames)
 
 func sync_animation_sprite_array(selected_sprite_array:Array[SpriteFrames]):
 	if selected_sprite_array:
@@ -23,8 +25,8 @@ func sync_animation_sprite_array(selected_sprite_array:Array[SpriteFrames]):
 			var kid_animation_speed = selected_sprite_array[0].get_animation_speed(first_animation_name)
 			#for setting fps of animationplayer
 
-			get_animation('kid_bro moving').step = 1.0 / kid_animation_speed
-			get_animation('kid_bro moving').length = (1.0 / kid_animation_speed) * kid_frame_count
+			get_animation(get_animation_list()[0]).step = 1.0 / kid_animation_speed
+			get_animation(get_animation_list()[0]).length = (1.0 / kid_animation_speed) * kid_frame_count
 			#confusing calculation i don't even know
 			
 
@@ -38,7 +40,13 @@ func sync_spriteframes_animationplayer(selected_spriteframe:SpriteFrames=null):
 			var kid_animation_speed = selected_spriteframe.get_animation_speed(first_animation_name)
 			#for setting fps of animationplayer
 
-			get_animation('kid_bro moving').step = 1.0 / kid_animation_speed
-			get_animation('kid_bro moving').length = (1.0 / kid_animation_speed) * kid_frame_count
+			speed_scale = speed_scale - (1.0 / kid_animation_speed)
+			print(speed_scale)
+			print((1.0 / kid_animation_speed))
+			
+			print(speed_scale)
+			#speed_scale = 0.9
+			
+			get_animation(get_animation_list()[0]).length = (1.0 / kid_animation_speed) * kid_frame_count
 			#confusing calculation i don't even know
 			

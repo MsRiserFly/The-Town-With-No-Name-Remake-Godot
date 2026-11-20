@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dthn6ao050o2h"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_lhcom"]
+
+[node name="TalkToBartender" type="AnimatedSprite2D" unique_id=267588137]
+script = ExtResource("1_lhcom")
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

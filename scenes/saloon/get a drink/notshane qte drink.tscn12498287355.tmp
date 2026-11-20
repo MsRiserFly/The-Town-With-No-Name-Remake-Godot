@@ -1,0 +1,118 @@
+[gd_scene format=3 uid="uid://bgw605hnwrd2p"]
+
+[ext_resource type="Texture2D" uid="uid://cq5353fm3ink7" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_1.png" id="1_l374y"]
+[ext_resource type="Script" uid="uid://c5nni5thhfeew" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_single.gd" id="1_pdtpg"]
+[ext_resource type="Texture2D" uid="uid://dne86wwjdyoll" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_2.png" id="2_e5fkc"]
+[ext_resource type="Texture2D" uid="uid://bpklvmgd7u1dc" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_3.png" id="3_ic1td"]
+[ext_resource type="Texture2D" uid="uid://dvxyynkyx8sqk" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_4.png" id="4_rrk5y"]
+[ext_resource type="Texture2D" uid="uid://coa78e5ex2c2g" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_5.png" id="5_0ly3v"]
+[ext_resource type="Texture2D" uid="uid://c5ooqdjupk4v5" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_6.png" id="6_qhn26"]
+[ext_resource type="Texture2D" uid="uid://hfcu3hlimj2" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_7.png" id="7_0lgec"]
+[ext_resource type="Texture2D" uid="uid://ckge5r2bet45y" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_8.png" id="8_6opaa"]
+[ext_resource type="Texture2D" uid="uid://ywmvrkw3na37" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_9.png" id="9_x5dc8"]
+[ext_resource type="Texture2D" uid="uid://dwtj2o0hfg0hq" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_10.png" id="10_tfe6x"]
+[ext_resource type="Texture2D" uid="uid://uipf03kjhykq" path="res://assets/animated cutscene/saloon packed folder/give me a drink bartender packed folder/grab drink qte/SLIDEGLASSANIM_McJp_11.png" id="11_q1ahn"]
+[ext_resource type="Script" uid="uid://c61o7c7r2ov8u" path="res://script/custom_classes/interactive choice area2d/interactivechoicearea2d custom class.gd" id="13_wq64l"]
+[ext_resource type="Script" uid="uid://bqdb1rchq07m4" path="res://scenes/head into town ch2/kidbro shooting/animation_player.gd" id="14_e5fkc"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_gp4fx"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_l374y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_e5fkc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ic1td")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_rrk5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_0ly3v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_qhn26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_0lgec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_6opaa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_x5dc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_tfe6x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_q1ahn")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 6.0
+}]
+
+[sub_resource type="Animation" id="Animation_ic1td"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("beer:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-184.99998, -0.30864197)]
+}
+
+[sub_resource type="Animation" id="Animation_rrk5y"]
+resource_name = "new_animation"
+length = 0.8333416915021836
+step = 0.083333336
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("beer:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.083333336, 0.25, 0.5833334),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(-196.66666, -0.30864197), Vector2(-159.99998, -0.3087613), Vector2(-43.545, -0.309), Vector2(194.1667, -0.309)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_0ly3v"]
+_data = {
+&"RESET": SubResource("Animation_ic1td"),
+&"new_animation": SubResource("Animation_rrk5y")
+}
+
+[node name="NotshaneQteDrink" type="AnimatedSprite2D" unique_id=2044336181]
+position = Vector2(575.99994, 324)
+scale = Vector2(3.6, 3.24)
+sprite_frames = SubResource("SpriteFrames_gp4fx")
+script = ExtResource("1_pdtpg")
+metadata/_custom_type_script = "uid://c5nni5thhfeew"
+
+[node name="beer" type="Area2D" parent="." unique_id=714262967]
+position = Vector2(-184.99998, -0.30864197)
+script = ExtResource("13_wq64l")
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="beer" unique_id=1612911523]
+polygon = PackedVector2Array(1.1111145, -48.765427, 28.611115, -45.061726, 32.22223, -32.71604, 31.388885, -21.604935, 25.555557, -12.962959, 21.388885, -0.30863953, 18.888885, 16.049385, 17.777786, 26.234573, 26.111115, 40.740746, 16.111115, 48.765434, 1.3888931, 51.234566, -14.444445, 47.8395, -28.055557, 41.049385, -16.111107, 29.320992, -17.5, 13.271606, -21.388885, -8.024689, -28.611107, -19.135796, -30.277779, -31.481476, -26.111107, -45.67901)
+metadata/_edit_lock_ = true
+
+[node name="AnimationPlayerInteractive_base" type="AnimationPlayer" parent="." unique_id=1929331367 node_paths=PackedStringArray("targeted_sprite")]
+libraries/ = SubResource("AnimationLibrary_0ly3v")
+autoplay = &"new_animation"
+script = ExtResource("14_e5fkc")
+targeted_sprite = NodePath("..")
+metadata/_custom_type_script = "uid://bqdb1rchq07m4"

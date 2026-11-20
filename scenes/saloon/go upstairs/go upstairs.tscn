@@ -1,0 +1,96 @@
+[gd_scene format=3 uid="uid://cg2ufvnvdatr3"]
+
+[ext_resource type="Texture2D" uid="uid://bpv5myl0py03x" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_1.png" id="1_uivvd"]
+[ext_resource type="Script" uid="uid://c5nni5thhfeew" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_single.gd" id="1_xwbdk"]
+[ext_resource type="Texture2D" uid="uid://n7ncupg4cfx" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_2.png" id="2_5xnix"]
+[ext_resource type="Texture2D" uid="uid://ci4oydf56ngc" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_3.png" id="3_sb8ja"]
+[ext_resource type="Texture2D" uid="uid://d2cvsvegn11v0" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_4.png" id="4_4xekt"]
+[ext_resource type="Texture2D" uid="uid://61fciklnntys" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_5.png" id="5_5uofo"]
+[ext_resource type="Texture2D" uid="uid://b718gjxyp3ldm" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_6.png" id="6_7nhtm"]
+[ext_resource type="Texture2D" uid="uid://d1ts0gapp8w4" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_7.png" id="7_fn8bc"]
+[ext_resource type="Texture2D" uid="uid://bs6xh03aofwnu" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_8.png" id="8_eubyk"]
+[ext_resource type="Texture2D" uid="uid://dwsv746lr4go4" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_9.png" id="9_ld3hn"]
+[ext_resource type="Texture2D" uid="uid://db2btsppj63ay" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_10.png" id="10_4gu2w"]
+[ext_resource type="Texture2D" uid="uid://dyu0j0bbp4ltt" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_11.png" id="11_4tgho"]
+[ext_resource type="Texture2D" uid="uid://cayu8bx08imbg" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_12.png" id="12_qhk8p"]
+[ext_resource type="Texture2D" uid="uid://cs1ygjj7rwty5" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_13.png" id="13_ajs1w"]
+[ext_resource type="Texture2D" uid="uid://cvlvwex5cw00h" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_14.png" id="14_84wso"]
+[ext_resource type="Texture2D" uid="uid://f1ss1apodviv" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_15.png" id="15_fwmvv"]
+[ext_resource type="Texture2D" uid="uid://d14sdjyinjxn6" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_16.png" id="16_y4oa6"]
+[ext_resource type="Texture2D" uid="uid://bh3r8ms7ti54r" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_17.png" id="17_hg3b5"]
+[ext_resource type="Texture2D" uid="uid://b07sii87203lc" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_18.png" id="18_tsqmm"]
+[ext_resource type="Texture2D" uid="uid://83wllbbiaj01" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_19.png" id="19_5md4s"]
+[ext_resource type="Texture2D" uid="uid://ck1a0vlpeubxq" path="res://assets/animated cutscene/saloon packed folder/going to up stairs/UPSTAIRSANIM_McJp_20.png" id="20_2wkb1"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_wegfo"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_uivvd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_5xnix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_sb8ja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_4xekt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_5uofo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_7nhtm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_fn8bc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_eubyk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_ld3hn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_4gu2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_4tgho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_qhk8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_ajs1w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_84wso")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_fwmvv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_y4oa6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_hg3b5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_tsqmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_5md4s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_2wkb1")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 12.0
+}]
+
+[node name="GoUpstairs" type="AnimatedSprite2D" unique_id=1039914207]
+sprite_frames = SubResource("SpriteFrames_wegfo")
+script = ExtResource("1_xwbdk")
+metadata/_custom_type_script = "uid://c5nni5thhfeew"

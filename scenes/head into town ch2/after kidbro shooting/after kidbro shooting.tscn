@@ -6,5 +6,6 @@
 
 [node name="AnimatedCutsceneSprite2D_sprite_array" type="AnimatedSprite2D" unique_id=354270952]
 script = ExtResource("1_hxofu")
+next_scene_path = "res://scenes/wherenow.tscn"
 sprite_array = Array[SpriteFrames]([ExtResource("2_dxtr0"), ExtResource("3_dxtr0")])
 metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

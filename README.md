@@ -12,7 +12,8 @@ but note to mention i learned some of the feautres and coding tips from ai and s
 - no gore option (censoring blood in the game) [not included yet]
 
 # progression:
-- playable till portagonist aka notshane walks into town
+- playable till portagonist aka notshane shoots first enemy
+- saloon give me a drink bartender scene (work in progress) (needs fixes)
 
 # missing features (adding it later)
 - no audio

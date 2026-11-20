@@ -51,10 +51,11 @@ autoplay = "default"
 script = ExtResource("2_eax7k")
 metadata/_custom_type_script = "uid://kqmllgwb70pj"
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1311028529]
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1311028529 node_paths=PackedStringArray("targeted_sprite")]
 libraries/ = SubResource("AnimationLibrary_tbjsp")
 autoplay = &"kid_bro moving"
 script = ExtResource("3_eax7k")
+targeted_sprite = NodePath("..")
 
 [node name="kidbro" type="Area2D" parent="." unique_id=828688158]
 script = ExtResource("3_ggpqb")

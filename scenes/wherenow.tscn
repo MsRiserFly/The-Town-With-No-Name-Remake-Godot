@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://bgobvqrae3p75"]
 
 [ext_resource type="Script" uid="uid://c5nni5thhfeew" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_single.gd" id="1_cydbb"]
-[ext_resource type="SpriteFrames" uid="uid://bngrdxanye7ja" path="res://scenes/where now/where now outside.tres" id="1_mwt4h"]
+[ext_resource type="SpriteFrames" uid="uid://bngrdxanye7ja" path="res://resource/spriteframes/outside/where now outside.tres" id="1_mwt4h"]
 [ext_resource type="Script" uid="uid://c61o7c7r2ov8u" path="res://script/custom_classes/interactive choice area2d/interactivechoicearea2d custom class.gd" id="3_e0yw8"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_e0yw8"]
@@ -32,73 +32,73 @@ sprite_frames = ExtResource("1_mwt4h")
 script = ExtResource("1_cydbb")
 metadata/_custom_type_script = "uid://c5nni5thhfeew"
 
-[node name="InteractiveChoiceArea2D" type="Area2D" parent="." unique_id=478220781]
+[node name="Saloon" type="Area2D" parent="." unique_id=478220781]
 position = Vector2(-83.6111, -44.444447)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D" unique_id=793216636]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Saloon" unique_id=793216636]
 position = Vector2(0, -0.8271637)
 shape = SubResource("RectangleShape2D_e0yw8")
 
-[node name="InteractiveChoiceArea2D2" type="Area2D" parent="." unique_id=668923665]
+[node name="Store" type="Area2D" parent="." unique_id=668923665]
 position = Vector2(-93.6111, -18.518518)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D2" unique_id=245983435]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Store" unique_id=245983435]
 position = Vector2(0, -0.20987701)
 shape = SubResource("RectangleShape2D_30roh")
 
-[node name="InteractiveChoiceArea2D3" type="Area2D" parent="." unique_id=358949815]
+[node name="Church" type="Area2D" parent="." unique_id=358949815]
 position = Vector2(-85.27776, 7.098769)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D3" unique_id=1920435049]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Church" unique_id=1920435049]
 position = Vector2(0, -0.36421967)
 shape = SubResource("RectangleShape2D_udnud")
 
-[node name="InteractiveChoiceArea2D4" type="Area2D" parent="." unique_id=91500088]
+[node name="Jaihouse" type="Area2D" parent="." unique_id=91500088]
 position = Vector2(-80.27776, 33.33334)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D4" unique_id=1107595932]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Jaihouse" unique_id=1107595932]
 shape = SubResource("RectangleShape2D_qetgx")
 
-[node name="InteractiveChoiceArea2D5" type="Area2D" parent="." unique_id=475047626]
+[node name="Livery stable" type="Area2D" parent="." unique_id=475047626]
 position = Vector2(56.944466, -44.444447)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D5" unique_id=1187607573]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Livery stable" unique_id=1187607573]
 position = Vector2(12.3611145, -0.1543274)
 shape = SubResource("RectangleShape2D_070u2")
 
-[node name="InteractiveChoiceArea2D6" type="Area2D" parent="." unique_id=1312019647]
+[node name="Town office" type="Area2D" parent="." unique_id=1312019647]
 position = Vector2(56.944466, -18.518518)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D6" unique_id=484497465]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Town office" unique_id=484497465]
 position = Vector2(10.972214, 0.4629593)
 shape = SubResource("RectangleShape2D_k6lav")
 
-[node name="InteractiveChoiceArea2D7" type="Area2D" parent="." unique_id=690845586]
+[node name="Blacksmith" type="Area2D" parent="." unique_id=690845586]
 position = Vector2(56.944466, 7.098769)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D7" unique_id=1951175914]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Blacksmith" unique_id=1951175914]
 position = Vector2(5.5555573, 0.4629593)
 shape = SubResource("RectangleShape2D_lusfn")
 
-[node name="InteractiveChoiceArea2D8" type="Area2D" parent="." unique_id=1527738766]
+[node name="Station" type="Area2D" parent="." unique_id=1527738766]
 position = Vector2(56.944466, 33.33334)
 script = ExtResource("3_e0yw8")
 metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractiveChoiceArea2D8" unique_id=768494126]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Station" unique_id=768494126]
 position = Vector2(-3.3333588, 0.46296692)
 shape = SubResource("RectangleShape2D_qetgx")

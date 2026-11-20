@@ -1,0 +1,87 @@
+[gd_scene format=3 uid="uid://dp8mlc4fqjkln"]
+
+[ext_resource type="Texture2D" uid="uid://dc5geqlsh2cep" path="res://assets/animated cutscene/saloon packed folder/what now/WHATNOW01_McJp_1.png" id="1_dxwsg"]
+[ext_resource type="Script" uid="uid://c5nni5thhfeew" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_single.gd" id="1_pjbu4"]
+[ext_resource type="Script" uid="uid://c61o7c7r2ov8u" path="res://script/custom_classes/interactive choice area2d/interactivechoicearea2d custom class.gd" id="3_6pdbi"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_dxwsg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_dxwsg")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qetgx"]
+size = Vector2(150, 25.87)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_6pdbi"]
+size = Vector2(199, 21.590328)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_avp11"]
+size = Vector2(129.55556, 24.372402)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_duo7r"]
+size = Vector2(122.22221, 21.45978)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_e8r2a"]
+size = Vector2(213.42029, 21.590336)
+
+[node name="WhatNowSaloon" type="AnimatedSprite2D" unique_id=1673298481]
+scale = Vector2(3.6, 3.235)
+sprite_frames = SubResource("SpriteFrames_dxwsg")
+centered = false
+script = ExtResource("1_pjbu4")
+metadata/_custom_type_script = "uid://c5nni5thhfeew"
+
+[node name="go upstair" type="Area2D" parent="." unique_id=623970840]
+position = Vector2(177.22223, 69.55178)
+script = ExtResource("3_6pdbi")
+next_choiced_scene = "uid://cg2ufvnvdatr3"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="go upstair" unique_id=868720928]
+shape = SubResource("RectangleShape2D_qetgx")
+
+[node name="out in street" type="Area2D" parent="." unique_id=1947883154]
+position = Vector2(177.22223, 96.13602)
+script = ExtResource("3_6pdbi")
+next_choiced_scene = "uid://bgobvqrae3p75"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="out in street" unique_id=257782784]
+position = Vector2(24.166672, -2.1398468)
+shape = SubResource("RectangleShape2D_6pdbi")
+
+[node name="get a drink" type="Area2D" parent="." unique_id=599915418]
+position = Vector2(177.22223, 122.41113)
+script = ExtResource("3_6pdbi")
+next_choiced_scene = "uid://bisouqks87vfq"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="get a drink" unique_id=1982951086]
+position = Vector2(-10.833328, -3.8399887)
+shape = SubResource("RectangleShape2D_avp11")
+
+[node name="play cards" type="Area2D" parent="." unique_id=1666613466]
+position = Vector2(177.22223, 145.28595)
+script = ExtResource("3_6pdbi")
+next_choiced_scene = "uid://dg0iewe64pnvj"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="play cards" unique_id=207849403]
+position = Vector2(-14.444443, -1.2364825)
+shape = SubResource("RectangleShape2D_duo7r")
+
+[node name="talk to the bartender" type="Area2D" parent="." unique_id=637080452]
+position = Vector2(186.94444, 166.92427)
+script = ExtResource("3_6pdbi")
+next_choiced_scene = "uid://dthn6ao050o2h"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="talk to the bartender" unique_id=708126896]
+position = Vector2(21.6232, 2.4729462)
+shape = SubResource("RectangleShape2D_e8r2a")

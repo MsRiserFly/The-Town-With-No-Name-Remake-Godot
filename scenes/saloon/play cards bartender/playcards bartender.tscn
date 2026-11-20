@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dg0iewe64pnvj"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_tc8r0"]
+
+[node name="PlaycardsBartender" type="AnimatedSprite2D" unique_id=1076853305]
+script = ExtResource("1_tc8r0")
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

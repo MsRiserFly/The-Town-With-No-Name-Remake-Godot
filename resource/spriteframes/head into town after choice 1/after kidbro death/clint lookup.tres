@@ -1,0 +1,78 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://c4qgl2yf2m2dj"]
+
+[ext_resource type="Texture2D" uid="uid://b4d8pf4twcrtq" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_1.png" id="1_jgq2v"]
+[ext_resource type="Texture2D" uid="uid://8ntxoiyf2c84" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_2.png" id="2_ljgs0"]
+[ext_resource type="Texture2D" uid="uid://b077glhoi03gm" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_3.png" id="3_ku7tj"]
+[ext_resource type="Texture2D" uid="uid://c8qf3fjkpmwc" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_4.png" id="4_yyo0u"]
+[ext_resource type="Texture2D" uid="uid://dc56635wo5a3v" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_5.png" id="5_wgdx5"]
+[ext_resource type="Texture2D" uid="uid://crjix1fv65joo" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_6.png" id="6_a0mqp"]
+[ext_resource type="Texture2D" uid="uid://d27y3c2dowiax" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_7.png" id="7_5uyty"]
+[ext_resource type="Texture2D" uid="uid://kw0yjjik5iiw" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_8.png" id="8_m8me5"]
+[ext_resource type="Texture2D" uid="uid://c2o0wf0045hy0" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_9.png" id="9_oh476"]
+[ext_resource type="Texture2D" uid="uid://c8uir3rlxeb54" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_10.png" id="10_877x7"]
+[ext_resource type="Texture2D" uid="uid://oldngj4hasw" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_11.png" id="11_k8kaf"]
+[ext_resource type="Texture2D" uid="uid://bd2scl480o2e3" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_12.png" id="12_mnmlm"]
+[ext_resource type="Texture2D" uid="uid://davb23vgofk2x" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_13.png" id="13_pfki8"]
+[ext_resource type="Texture2D" uid="uid://bx34wtm5dsg7w" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_14.png" id="14_scl82"]
+[ext_resource type="Texture2D" uid="uid://b6rpirftjdy83" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_15.png" id="15_v6w28"]
+[ext_resource type="Texture2D" uid="uid://cr55abuprumtr" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_16.png" id="16_ao4qv"]
+[ext_resource type="Texture2D" uid="uid://c6b07jk61ynbg" path="res://assets/animated cutscene/walk to town packed folder/clint look up he is done it/CLINTLOOKUPANIM_McJp_17.png" id="17_y32h2"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_jgq2v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ljgs0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ku7tj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_yyo0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_wgdx5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_a0mqp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_5uyty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_m8me5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_oh476")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_877x7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_k8kaf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_mnmlm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_pfki8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_scl82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_v6w28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_ao4qv")
+}, {
+"duration": 3.0,
+"texture": ExtResource("17_y32h2")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 6.0
+}]

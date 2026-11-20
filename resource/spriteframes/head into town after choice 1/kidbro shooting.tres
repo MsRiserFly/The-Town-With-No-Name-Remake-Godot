@@ -1,0 +1,90 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://dca00w0s3bx1v"]
+
+[ext_resource type="Texture2D" uid="uid://5nwwaqk2vs5b" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_1.png" id="1_m52we"]
+[ext_resource type="Texture2D" uid="uid://c5oonag8du2ul" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_2.png" id="2_sm3rq"]
+[ext_resource type="Texture2D" uid="uid://cf87n4vh0xcum" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_3.png" id="3_l10ts"]
+[ext_resource type="Texture2D" uid="uid://duv5k5h0upfvq" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_4.png" id="4_1uct5"]
+[ext_resource type="Texture2D" uid="uid://b2akvksxfpisf" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_5.png" id="5_djbmg"]
+[ext_resource type="Texture2D" uid="uid://bvup1awva4u55" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_6.png" id="6_8hnnf"]
+[ext_resource type="Texture2D" uid="uid://igdw8sicaaqg" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_7.png" id="7_uvuhe"]
+[ext_resource type="Texture2D" uid="uid://cb3bw5qv17vju" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_8.png" id="8_mg58y"]
+[ext_resource type="Texture2D" uid="uid://ch0meemj5mbm6" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_9.png" id="9_tcyfy"]
+[ext_resource type="Texture2D" uid="uid://opio1535lwsi" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_10.png" id="10_5ypwm"]
+[ext_resource type="Texture2D" uid="uid://cwnwhu8np4vrf" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_11.png" id="11_7qr6e"]
+[ext_resource type="Texture2D" uid="uid://d1dmyj61dspk8" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_12.png" id="12_aabt5"]
+[ext_resource type="Texture2D" uid="uid://vskwwgeco8pe" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_13.png" id="13_jd5m7"]
+[ext_resource type="Texture2D" uid="uid://bsjnirb085nq1" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_14.png" id="14_hxbqa"]
+[ext_resource type="Texture2D" uid="uid://bdaylte0ms5m" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_15.png" id="15_3osl4"]
+[ext_resource type="Texture2D" uid="uid://chidl4hojmm6e" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_16.png" id="16_f328v"]
+[ext_resource type="Texture2D" uid="uid://mle2pjyujs1t" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_17.png" id="17_fmyr1"]
+[ext_resource type="Texture2D" uid="uid://dq1kdgm2tviu7" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_18.png" id="18_ve0v1"]
+[ext_resource type="Texture2D" uid="uid://cmvsncxe81ofn" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_19.png" id="19_eyyvb"]
+[ext_resource type="Texture2D" uid="uid://cgi8kw7ixaupx" path="res://assets/animated cutscene/walk to town packed folder/kid bro firing anim/KIDBROFIRINGANIM_McJp_20.png" id="20_2sb2c"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_m52we")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_sm3rq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_l10ts")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_1uct5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_djbmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_8hnnf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_uvuhe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_mg58y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_tcyfy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_5ypwm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_7qr6e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_aabt5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_jd5m7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_hxbqa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_3osl4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_f328v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_fmyr1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_ve0v1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_eyyvb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_2sb2c")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 12.0
+}]

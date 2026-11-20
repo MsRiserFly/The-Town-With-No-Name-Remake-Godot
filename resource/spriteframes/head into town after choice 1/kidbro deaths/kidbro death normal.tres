@@ -1,0 +1,158 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://c2gojiisjs1ni"]
+
+[ext_resource type="Texture2D" uid="uid://cqmleju1ahcbt" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_1.png" id="1_cfb56"]
+[ext_resource type="Texture2D" uid="uid://cxrj7befc38y7" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_2.png" id="2_ettyc"]
+[ext_resource type="Texture2D" uid="uid://bp13dk6hdqdvb" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_3.png" id="3_prlo3"]
+[ext_resource type="Texture2D" uid="uid://beahn6ls3hwt3" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_4.png" id="4_sl4fx"]
+[ext_resource type="Texture2D" uid="uid://dn532qtnqslkn" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_5.png" id="5_yhdw4"]
+[ext_resource type="Texture2D" uid="uid://b2delgj6ifmks" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_6.png" id="6_w1giu"]
+[ext_resource type="Texture2D" uid="uid://dj3ve6vagygfh" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_7.png" id="7_sv1j2"]
+[ext_resource type="Texture2D" uid="uid://dixixch6gsla8" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_8.png" id="8_ag7nn"]
+[ext_resource type="Texture2D" uid="uid://ch7ukivu8yeyx" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_9.png" id="9_8xhax"]
+[ext_resource type="Texture2D" uid="uid://cy6pdfvurcw2s" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_10.png" id="10_57cgi"]
+[ext_resource type="Texture2D" uid="uid://d1vm1ck8su5cs" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_11.png" id="11_lhak8"]
+[ext_resource type="Texture2D" uid="uid://si16lgxgc1sv" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_12.png" id="12_5262n"]
+[ext_resource type="Texture2D" uid="uid://cxech78mhbon5" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_13.png" id="13_4eadr"]
+[ext_resource type="Texture2D" uid="uid://cfvnxylliwojp" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_14.png" id="14_g3x76"]
+[ext_resource type="Texture2D" uid="uid://blqpva0hjliax" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_15.png" id="15_y0ocm"]
+[ext_resource type="Texture2D" uid="uid://it41ao0kat76" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_16.png" id="16_cdgj6"]
+[ext_resource type="Texture2D" uid="uid://dwalxsibeentg" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_17.png" id="17_m72o6"]
+[ext_resource type="Texture2D" uid="uid://bfwfwuop1dx4v" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_18.png" id="18_iiofk"]
+[ext_resource type="Texture2D" uid="uid://cc30gukkuwltf" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_19.png" id="19_onnyt"]
+[ext_resource type="Texture2D" uid="uid://d2rmrr0e0gua6" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_20.png" id="20_b42cv"]
+[ext_resource type="Texture2D" uid="uid://51bk36ny66tr" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_21.png" id="21_qlow6"]
+[ext_resource type="Texture2D" uid="uid://ddree21yfcqoe" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_22.png" id="22_g07e2"]
+[ext_resource type="Texture2D" uid="uid://cilob8qvxpgcq" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_23.png" id="23_mj3mp"]
+[ext_resource type="Texture2D" uid="uid://dkulaqcuk83pu" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_24.png" id="24_08ku0"]
+[ext_resource type="Texture2D" uid="uid://vutbltdup51p" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_25.png" id="25_bs1dl"]
+[ext_resource type="Texture2D" uid="uid://cvlxjee5db8rn" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_26.png" id="26_x0lw1"]
+[ext_resource type="Texture2D" uid="uid://di38512tlkx7e" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_27.png" id="27_rg72o"]
+[ext_resource type="Texture2D" uid="uid://c6biqf76mh0w7" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_28.png" id="28_h1mea"]
+[ext_resource type="Texture2D" uid="uid://cxj2no7tbg2xv" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_29.png" id="29_cm017"]
+[ext_resource type="Texture2D" uid="uid://fgj751c04y5x" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_30.png" id="30_jaodk"]
+[ext_resource type="Texture2D" uid="uid://d2mjd48hbumni" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_31.png" id="31_k3gn8"]
+[ext_resource type="Texture2D" uid="uid://cb33sa5ccqsr8" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_32.png" id="32_x7qrf"]
+[ext_resource type="Texture2D" uid="uid://hth1bodr2g2l" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_33.png" id="33_8cqat"]
+[ext_resource type="Texture2D" uid="uid://c6d013jv5gpul" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_34.png" id="34_tcb4m"]
+[ext_resource type="Texture2D" uid="uid://bcnlm3mm7cfcm" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_35.png" id="35_e2frb"]
+[ext_resource type="Texture2D" uid="uid://plsxcpfom8c0" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_36.png" id="36_m4u7l"]
+[ext_resource type="Texture2D" uid="uid://cwbcxov3edv8" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro/UGLYWAYTODIEANIM_McJp_37.png" id="37_u748m"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_cfb56")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ettyc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_prlo3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_sl4fx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_yhdw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_w1giu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_sv1j2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ag7nn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_8xhax")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_57cgi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_lhak8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_5262n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_4eadr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_g3x76")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_y0ocm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_cdgj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_m72o6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_iiofk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_onnyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_b42cv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_qlow6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_g07e2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_mj3mp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_08ku0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_bs1dl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_x0lw1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_rg72o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_h1mea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_cm017")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_jaodk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_k3gn8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_x7qrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_8cqat")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_tcb4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_e2frb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_m4u7l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_u748m")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

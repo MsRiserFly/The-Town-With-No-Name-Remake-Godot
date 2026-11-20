@@ -1,0 +1,90 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://c0a3230ahkx5h"]
+
+[ext_resource type="Texture2D" uid="uid://dekdpaeexfiqu" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_1.png" id="1_w48tb"]
+[ext_resource type="Texture2D" uid="uid://dw53v5h6jrk54" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_2.png" id="2_og2qu"]
+[ext_resource type="Texture2D" uid="uid://bvh35lphw37n1" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_3.png" id="3_y7jp4"]
+[ext_resource type="Texture2D" uid="uid://c4ppnkhsf8qdf" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_4.png" id="4_amapn"]
+[ext_resource type="Texture2D" uid="uid://dsf8voyqkivvm" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_5.png" id="5_day8l"]
+[ext_resource type="Texture2D" uid="uid://dsjryree3suus" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_6.png" id="6_tssic"]
+[ext_resource type="Texture2D" uid="uid://h0wxpmow5ta7" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_7.png" id="7_nsb3b"]
+[ext_resource type="Texture2D" uid="uid://x58yvlk0r8c0" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_8.png" id="8_s7t18"]
+[ext_resource type="Texture2D" uid="uid://c03pmqys4q3g7" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_9.png" id="9_plnet"]
+[ext_resource type="Texture2D" uid="uid://br34683uhxe27" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_10.png" id="10_1ih4v"]
+[ext_resource type="Texture2D" uid="uid://c5orjinqhj65u" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_11.png" id="11_v0q22"]
+[ext_resource type="Texture2D" uid="uid://dfq0s7xl6te66" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_12.png" id="12_de5pm"]
+[ext_resource type="Texture2D" uid="uid://b4278r4xp5b7i" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_13.png" id="13_a67na"]
+[ext_resource type="Texture2D" uid="uid://21s6jhvvyewd" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_14.png" id="14_cgmr2"]
+[ext_resource type="Texture2D" uid="uid://c63jwsckurf1r" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_15.png" id="15_lqe15"]
+[ext_resource type="Texture2D" uid="uid://tw1td68bymf1" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_16.png" id="16_dilmb"]
+[ext_resource type="Texture2D" uid="uid://cnhlb6wucmk7h" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_17.png" id="17_y1dl4"]
+[ext_resource type="Texture2D" uid="uid://djqq6joyroxjh" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_18.png" id="18_uh3e1"]
+[ext_resource type="Texture2D" uid="uid://d1va416c4bqhn" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_19.png" id="19_x6d3p"]
+[ext_resource type="Texture2D" uid="uid://misdr88jgcth" path="res://assets/animated cutscene/walk to town packed folder/mr diablo lincoln/MRDIABLOANIM_McJp_20.png" id="20_ywly7"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_w48tb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_og2qu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_y7jp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_amapn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_day8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_tssic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_nsb3b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_s7t18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_plnet")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_1ih4v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_v0q22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_de5pm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_a67na")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_cgmr2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_lqe15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_dilmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_y1dl4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_uh3e1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_x6d3p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_ywly7")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

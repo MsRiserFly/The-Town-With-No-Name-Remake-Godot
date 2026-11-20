@@ -1,0 +1,158 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://u83n7drj12pl"]
+
+[ext_resource type="Texture2D" uid="uid://bcrs2fn3ivnyq" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0000.png" id="1_2ky5s"]
+[ext_resource type="Texture2D" uid="uid://beo5skyay65l5" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0001.png" id="2_1lp55"]
+[ext_resource type="Texture2D" uid="uid://bccn0147ta1db" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0002.png" id="3_dul6x"]
+[ext_resource type="Texture2D" uid="uid://boyks5sp0tqri" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0003.png" id="4_2q21e"]
+[ext_resource type="Texture2D" uid="uid://b7p2yisgv4y0" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0004.png" id="5_b623b"]
+[ext_resource type="Texture2D" uid="uid://0hmfoai22i88" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0005.png" id="6_blffp"]
+[ext_resource type="Texture2D" uid="uid://eyqqbg0ijhry" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0006.png" id="7_fx3sb"]
+[ext_resource type="Texture2D" uid="uid://cjsdlkctdbtmf" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0007.png" id="8_qahjj"]
+[ext_resource type="Texture2D" uid="uid://dglqdh6tsrkse" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0008.png" id="9_h4kvb"]
+[ext_resource type="Texture2D" uid="uid://bskf3m3t6g4kk" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0009.png" id="10_x2py3"]
+[ext_resource type="Texture2D" uid="uid://vauxp5vh3tm4" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0010.png" id="11_p1jtk"]
+[ext_resource type="Texture2D" uid="uid://oiyiverqp5jq" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0011.png" id="12_2cnix"]
+[ext_resource type="Texture2D" uid="uid://cdtuu1nk8xkfb" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0012.png" id="13_6mut1"]
+[ext_resource type="Texture2D" uid="uid://cl4cpiyklqm5y" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0013.png" id="14_uj0km"]
+[ext_resource type="Texture2D" uid="uid://cd6q17k5p4gyu" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0014.png" id="15_goqex"]
+[ext_resource type="Texture2D" uid="uid://dabdv85ts0i6k" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0015.png" id="16_bmd4m"]
+[ext_resource type="Texture2D" uid="uid://rommk7ruwj4h" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0016.png" id="17_af8if"]
+[ext_resource type="Texture2D" uid="uid://5uvg40u4qyfe" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0017.png" id="18_aqhft"]
+[ext_resource type="Texture2D" uid="uid://dqm4qhm4fqgmy" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0018.png" id="19_6fy2s"]
+[ext_resource type="Texture2D" uid="uid://dxijxkkett2df" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0019.png" id="20_mq6pk"]
+[ext_resource type="Texture2D" uid="uid://cmfmvsu73mumq" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0020.png" id="21_wtuuj"]
+[ext_resource type="Texture2D" uid="uid://xdv3old7mdx5" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0021.png" id="22_jnkfh"]
+[ext_resource type="Texture2D" uid="uid://dsyvoj7ikx5w8" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0022.png" id="23_iohov"]
+[ext_resource type="Texture2D" uid="uid://cocmxbgh1an0n" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0023.png" id="24_4s61w"]
+[ext_resource type="Texture2D" uid="uid://c5o1avgeypx3y" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0024.png" id="25_krq76"]
+[ext_resource type="Texture2D" uid="uid://c5b6bjg7p87pv" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0025.png" id="26_w1p2i"]
+[ext_resource type="Texture2D" uid="uid://fic7gtd8ax8m" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0026.png" id="27_s3ni5"]
+[ext_resource type="Texture2D" uid="uid://dqgpn1uhirkas" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0027.png" id="28_fk0ex"]
+[ext_resource type="Texture2D" uid="uid://bvxfcbdvo0fnf" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0028.png" id="29_ut7r3"]
+[ext_resource type="Texture2D" uid="uid://4mjlhr0jirj" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0029.png" id="30_ax3pt"]
+[ext_resource type="Texture2D" uid="uid://dcfcaebfk1oe5" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0030.png" id="31_0hwxs"]
+[ext_resource type="Texture2D" uid="uid://cml1c4ysftflj" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0031.png" id="32_lcqnq"]
+[ext_resource type="Texture2D" uid="uid://cmcesg001wq68" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0032.png" id="33_dfug1"]
+[ext_resource type="Texture2D" uid="uid://dwylxdaykxoto" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0033.png" id="34_6e62h"]
+[ext_resource type="Texture2D" uid="uid://bu3bn4ywx08us" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0034.png" id="35_rytxw"]
+[ext_resource type="Texture2D" uid="uid://dtqmwqt2yq4o4" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0035.png" id="36_kyclf"]
+[ext_resource type="Texture2D" uid="uid://bm7etdblebsjr" path="res://assets/animated cutscene/walk to town packed folder/ugly way to die kidbro censored/KidbroGettingShotCencored0036.png" id="37_athew"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_2ky5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_1lp55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_dul6x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_2q21e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_b623b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_blffp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_fx3sb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_qahjj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_h4kvb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_x2py3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_p1jtk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_2cnix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_6mut1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_uj0km")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_goqex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_bmd4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_af8if")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_aqhft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_6fy2s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_mq6pk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_wtuuj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_jnkfh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_iohov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_4s61w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_krq76")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_w1p2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_s3ni5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_fk0ex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ut7r3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ax3pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_0hwxs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_lcqnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_dfug1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_6e62h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_rytxw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_kyclf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_athew")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

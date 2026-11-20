@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_17tfu"]
 [ext_resource type="SpriteFrames" uid="uid://ofi5qsim1u8x" path="res://resource/spriteframes/head into town after choice 1/notshane looking at stores.tres" id="2_estlp"]
-[ext_resource type="PackedScene" uid="uid://s06gedxnavu3" path="res://scenes/head into town ch2/transition scene/amiga transition canvas layer.tscn" id="3_jqwjp"]
+[ext_resource type="PackedScene" uid="uid://s06gedxnavu3" path="res://scenes/transition scene/amiga transition canvas layer.tscn" id="3_jqwjp"]
 
 [sub_resource type="Animation" id="Animation_jqwjp"]
 length = 0.001
@@ -42,6 +42,7 @@ _data = {
 
 [node name="NotshaneLookAtTownStores" type="AnimatedSprite2D" unique_id=1283931043]
 script = ExtResource("1_17tfu")
+next_scene_path = "res://scenes/head into town ch2/kidbro shooting/kidbro shooting.tscn"
 sprite_array = Array[SpriteFrames]([ExtResource("2_estlp")])
 metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"
 

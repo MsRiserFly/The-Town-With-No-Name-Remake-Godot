@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://b6jhyxm307u83" path="res://scenes/head into town ch2/notshane back view rotation/headintotown.gd" id="1_mdnta"]
 [ext_resource type="SpriteFrames" uid="uid://cebbxuqaoj3sx" path="res://resource/spriteframes/head into town after choice 1/head into town notshane view rotation to back.tres" id="2_x2gfb"]
-[ext_resource type="PackedScene" uid="uid://s06gedxnavu3" path="res://scenes/head into town ch2/transition scene/amiga transition canvas layer.tscn" id="3_x2gfb"]
+[ext_resource type="PackedScene" uid="uid://s06gedxnavu3" path="res://scenes/transition scene/amiga transition canvas layer.tscn" id="3_x2gfb"]
 
 [sub_resource type="Animation" id="Animation_yfj2g"]
 resource_name = "0"

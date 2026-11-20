@@ -10,29 +10,27 @@ func _ready() -> void:
 		animation_finished.connect(_on_animation_finished)
 	
 	
-func _fit_frame_size_to_viewport():
+func _fit_frame_size_to_viewport(spritefr:SpriteFrames):
 	if sprite_frames == null:
 		return
 		
-	var texture : Texture2D= sprite_frames.get_frame_texture(
-		sprite_frames.get_animation_names()[0],
-		0
-	)
+	if spritefr.get_frame_count(spritefr.get_animation_names()[0]) > 0:
+		var texture : Texture2D= spritefr.get_frame_texture(
+			spritefr.get_animation_names()[0],
+			0
+		)
 
-	if texture == null:
-		return
+		var viewport_size: Vector2 = get_viewport_rect().size
+		var image_size: Vector2 = texture.get_size()
 
-	var viewport_size: Vector2 = get_viewport_rect().size
-	var image_size: Vector2 = texture.get_size()
+		var scale_x: float = viewport_size.x / image_size.x
+		var scale_y: float = viewport_size.y / image_size.y
 
-	var scale_x: float = viewport_size.x / image_size.x
-	var scale_y: float = viewport_size.y / image_size.y
-
-	scale = Vector2(scale_x, scale_y)
-	position = viewport_size / 2
+		scale = Vector2(scale_x, scale_y)
+		position = viewport_size / 2
 
 func _on_animation_finished():
-	pass
+	get_tree().change_scene_to_file('res://scenes/head into town ch2/kidbro shooting/notshane miss the shot.tscn')
 
 func _on_spriteframe_changed():
-	_fit_frame_size_to_viewport()
+	_fit_frame_size_to_viewport(sprite_frames)

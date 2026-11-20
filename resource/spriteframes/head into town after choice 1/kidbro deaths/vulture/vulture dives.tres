@@ -1,0 +1,134 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://dvnwkjxsfhsei"]
+
+[ext_resource type="Texture2D" uid="uid://bbev5mp6f5rm1" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_1.png" id="1_j3h7m"]
+[ext_resource type="Texture2D" uid="uid://bwcoywkg76sr1" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_2.png" id="2_qplr5"]
+[ext_resource type="Texture2D" uid="uid://cd0nejfairfw7" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_3.png" id="3_8iqjk"]
+[ext_resource type="Texture2D" uid="uid://cxvsqjaajmcqs" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_4.png" id="4_vlbmm"]
+[ext_resource type="Texture2D" uid="uid://dbgufsgvu3fh7" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_5.png" id="5_dlnrc"]
+[ext_resource type="Texture2D" uid="uid://vs5luqmcsexs" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_6.png" id="6_ohgdn"]
+[ext_resource type="Texture2D" uid="uid://bv7jn5vygbl8t" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_7.png" id="7_j5ygo"]
+[ext_resource type="Texture2D" uid="uid://bvd1ytrqjo4s4" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_8.png" id="8_fec5e"]
+[ext_resource type="Texture2D" uid="uid://di5ng38ul6vmf" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_9.png" id="9_01uxm"]
+[ext_resource type="Texture2D" uid="uid://c3xyq8eggh3bu" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_10.png" id="10_orfni"]
+[ext_resource type="Texture2D" uid="uid://1gbh0n2b866p" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_11.png" id="11_1p48x"]
+[ext_resource type="Texture2D" uid="uid://bjsngfcltd6cm" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_12.png" id="12_0i7t1"]
+[ext_resource type="Texture2D" uid="uid://dylewhylceeug" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_13.png" id="13_ajmuh"]
+[ext_resource type="Texture2D" uid="uid://cdhb1ufapl7xx" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_14.png" id="14_r1mdf"]
+[ext_resource type="Texture2D" uid="uid://b0hepqr254saa" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_15.png" id="15_sdtdt"]
+[ext_resource type="Texture2D" uid="uid://vca1fep28t6h" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_16.png" id="16_i5cff"]
+[ext_resource type="Texture2D" uid="uid://ctm0n4r4urdw3" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_17.png" id="17_05dl2"]
+[ext_resource type="Texture2D" uid="uid://buiif8bf64fop" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_18.png" id="18_trh5u"]
+[ext_resource type="Texture2D" uid="uid://dgwkiak1bj1sb" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_19.png" id="19_wflo7"]
+[ext_resource type="Texture2D" uid="uid://cbxdbpsbjmf1w" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_20.png" id="20_jjfux"]
+[ext_resource type="Texture2D" uid="uid://bg7iqbxraoqcw" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_21.png" id="21_52k5k"]
+[ext_resource type="Texture2D" uid="uid://dm1qlmfha5b57" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_22.png" id="22_7qrwt"]
+[ext_resource type="Texture2D" uid="uid://bchlnqaaf3w88" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_23.png" id="23_500l1"]
+[ext_resource type="Texture2D" uid="uid://dg1ilo7h1lvx5" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_24.png" id="24_g40s8"]
+[ext_resource type="Texture2D" uid="uid://dfptt2djb5mvy" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_25.png" id="25_531mf"]
+[ext_resource type="Texture2D" uid="uid://b7bg6m76bivav" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_26.png" id="26_bybbn"]
+[ext_resource type="Texture2D" uid="uid://c7mpe6n7ckkdr" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_27.png" id="27_w6v20"]
+[ext_resource type="Texture2D" uid="uid://uuy5ok8ld1uo" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_28.png" id="28_ifa0d"]
+[ext_resource type="Texture2D" uid="uid://u8uhbtuqkex3" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_29.png" id="29_bt1qg"]
+[ext_resource type="Texture2D" uid="uid://4d8f5iky51tp" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_30.png" id="30_5yxp7"]
+[ext_resource type="Texture2D" uid="uid://cha306uup7s7h" path="res://assets/animated cutscene/walk to town packed folder/vulture dive/VULTUREDIVEANIM_McJp_31.png" id="31_q3e18"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_j3h7m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_qplr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_8iqjk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_vlbmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_dlnrc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ohgdn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_j5ygo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_fec5e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_01uxm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_orfni")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_1p48x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_0i7t1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_ajmuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_r1mdf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_sdtdt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_i5cff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_05dl2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_trh5u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_wflo7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_jjfux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_52k5k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_7qrwt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_500l1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_g40s8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_531mf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_bybbn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_w6v20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_ifa0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_bt1qg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_5yxp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_q3e18")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

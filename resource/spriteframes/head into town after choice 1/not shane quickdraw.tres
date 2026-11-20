@@ -1,0 +1,90 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://t6a1pyu2oefq"]
+
+[ext_resource type="Texture2D" uid="uid://c0630gy30uh8f" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_1.png" id="1_bn5ic"]
+[ext_resource type="Texture2D" uid="uid://d1lmq120xdqxw" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_2.png" id="2_rjubm"]
+[ext_resource type="Texture2D" uid="uid://cbwhckl8sowtg" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_3.png" id="3_kv65s"]
+[ext_resource type="Texture2D" uid="uid://byir2bsu8ufu0" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_4.png" id="4_dieod"]
+[ext_resource type="Texture2D" uid="uid://ca5shik1847tq" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_5.png" id="5_oebog"]
+[ext_resource type="Texture2D" uid="uid://qpw1bh6pbchu" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_6.png" id="6_g30w3"]
+[ext_resource type="Texture2D" uid="uid://cwvic3pe5tjka" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_7.png" id="7_h3oqd"]
+[ext_resource type="Texture2D" uid="uid://c5p4iuvsvegyq" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_8.png" id="8_im28n"]
+[ext_resource type="Texture2D" uid="uid://cdqb20fm2knad" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_9.png" id="9_oafsv"]
+[ext_resource type="Texture2D" uid="uid://chnc3m1r5efu4" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_10.png" id="10_jwbq1"]
+[ext_resource type="Texture2D" uid="uid://cbafngu1l6pvb" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_11.png" id="11_rcmjn"]
+[ext_resource type="Texture2D" uid="uid://xx2luj2ijhfe" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_12.png" id="12_voa2h"]
+[ext_resource type="Texture2D" uid="uid://4cx4bc0q8a53" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_13.png" id="13_fdggc"]
+[ext_resource type="Texture2D" uid="uid://4xsev5ae44yb" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_14.png" id="14_lm5xj"]
+[ext_resource type="Texture2D" uid="uid://bkvsxbdykhgb5" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_15.png" id="15_ml6it"]
+[ext_resource type="Texture2D" uid="uid://d4h0lub4ka7hk" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_16.png" id="16_jg28m"]
+[ext_resource type="Texture2D" uid="uid://c1ombjnh8chvi" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_17.png" id="17_g1ibx"]
+[ext_resource type="Texture2D" uid="uid://be56g5asepteh" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_18.png" id="18_peugc"]
+[ext_resource type="Texture2D" uid="uid://djhscqxyvywpf" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_19.png" id="19_75yfe"]
+[ext_resource type="Texture2D" uid="uid://0glpyetd4p6l" path="res://assets/animated cutscene/walk to town packed folder/quick draw anim/QUICKDRAWANIM_McJp_20.png" id="20_k4fue"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_bn5ic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_rjubm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_kv65s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_dieod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_oebog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_g30w3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_h3oqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_im28n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_oafsv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_jwbq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_rcmjn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_voa2h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_fdggc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_lm5xj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_ml6it")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_jg28m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_g1ibx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_peugc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_75yfe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_k4fue")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 12.0
+}]

@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dchk6ytg4a01d"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_obxmu"]
+[ext_resource type="SpriteFrames" uid="uid://bo8dvt1te6a8g" path="res://resource/spriteframes/head into town after choice 1/kidbro deaths/vulture/vulture bang.tres" id="2_r1i5w"]
+[ext_resource type="SpriteFrames" uid="uid://dvnwkjxsfhsei" path="res://resource/spriteframes/head into town after choice 1/kidbro deaths/vulture/vulture dives.tres" id="3_j85wd"]
+[ext_resource type="SpriteFrames" uid="uid://bue5yf2olgkn4" path="res://resource/spriteframes/head into town after choice 1/kidbro deaths/vulture/vultures goes to kidbro.tres" id="4_g4wg8"]
+
+[node name="VultureShots" type="AnimatedSprite2D" unique_id=1448392738]
+script = ExtResource("1_obxmu")
+sprite_array = Array[SpriteFrames]([ExtResource("2_r1i5w"), ExtResource("3_j85wd"), ExtResource("4_g4wg8")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

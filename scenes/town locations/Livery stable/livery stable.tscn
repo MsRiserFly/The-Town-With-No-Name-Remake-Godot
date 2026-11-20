@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://lmfexs6xlt6k"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_y6x8q"]
+
+[node name="LiveryStable" type="AnimatedSprite2D" unique_id=825011928]
+script = ExtResource("1_y6x8q")
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

@@ -1,0 +1,73 @@
+[gd_scene format=3 uid="uid://8uxgodvye5fc"]
+
+[ext_resource type="SpriteFrames" uid="uid://dca00w0s3bx1v" path="res://resource/spriteframes/head into town after choice 1/kidbro shooting.tres" id="2_38hld"]
+[ext_resource type="Script" uid="uid://kqmllgwb70pj" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_base.gd" id="2_eax7k"]
+[ext_resource type="Script" uid="uid://bqdb1rchq07m4" path="res://scenes/head into town ch2/kidbro shooting/animation_player.gd" id="3_eax7k"]
+[ext_resource type="Script" uid="uid://c61o7c7r2ov8u" path="res://script/custom_classes/interactive choice area2d/interactivechoicearea2d custom class.gd" id="3_ggpqb"]
+
+[sub_resource type="Animation" id="Animation_eax7k"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("kidbro/CollisionPolygon2D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_f44ca"]
+resource_name = "kid_bro moving"
+length = 2.916675086923689
+step = 0.01754386
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("kidbro/CollisionPolygon2D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.083333336, 0.16666667, 0.25, 0.4166667, 0.6666667, 0.75, 0.8333333, 0.9166667, 1.0833334, 1.25, 1.4166666),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(-57, 0), Vector2(-48.885, 0), Vector2(-30, 0), Vector2(-22, 0), Vector2(-8, 2), Vector2(2, 1), Vector2(2, 1), Vector2(0, 1.715), Vector2(-3.645, 1.501), Vector2(-15.074, 1.072), Vector2(-32.939, -1.872), Vector2(-57, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_tbjsp"]
+_data = {
+&"RESET": SubResource("Animation_eax7k"),
+&"kid_bro moving": SubResource("Animation_f44ca")
+}
+
+[node name="KidbroShooting" type="AnimatedSprite2D" unique_id=961972724]
+position = Vector2(576, 324)
+scale = Vector2(3.6, 3.24)
+sprite_frames = ExtResource("2_38hld")
+autoplay = "default"
+script = ExtResource("2_eax7k")
+metadata/_custom_type_script = "uid://kqmllgwb70pj"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1311028529]
+libraries/ = SubResource("AnimationLibrary_tbjsp")
+autoplay = &"kid_bro moving"
+script = ExtResource("3_eax7k")
+
+[node name="kidbro" type="Area2D" parent="." unique_id=828688158]
+script = ExtResource("3_ggpqb")
+next_choiced_scene = "uid://bib35lm57gxue"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="kidbro" unique_id=413179816]
+polygon = PackedVector2Array(-24.722214, 0.9259262, -23.888885, 7.716049, -31.388885, 8.641975, -36.111107, 14.506172, -38.888885, 21.913582, -42.222214, 23.456787, -46.666664, 24.691353, -51.388885, 27.160492, -52.77777, 27.777779, -54.999992, 26.543205, -56.388885, 29.012344, -56.388885, 33.950623, -53.888885, 35.18518, -51.944443, 36.111115, -46.388885, 36.728394, -34.444435, 34.87654, -31.944443, 32.09877, -31.944443, 37.345673, -33.611107, 42.28395, -36.388885, 47.222214, -38.611107, 56.790115, -40.27777, 72.83951, -45.27777, 77.46913, -28.055542, 77.46913, -28.6111, 75.92592, -23.333328, 67.28395, -20.55555, 50.61728, -19.722214, 65.74074, -14.999992, 76.23456, -9.722214, 78.395065, -0.83332825, 78.08641, 2.222229, 76.54321, -3.6111069, 71.296295, -4.7222137, 41.049377, 0.27778625, 27.469131, -0.277771, 15.740738, -8.611107, 3.3950577, -1.1110992, -1.2345734, -14.722214, -15.432098, -18.888885, -13.888893, -21.944443, -15.432098, -24.444443, -12.65432, -24.999992, -3.7037048, -32.77777, -1.2345734)
+
+[node name="sky" type="Area2D" parent="." unique_id=1727629228]
+script = ExtResource("3_ggpqb")
+next_choiced_scene = "uid://dchk6ytg4a01d"
+metadata/_custom_type_script = "uid://c61o7c7r2ov8u"
+
+[node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="sky" unique_id=307520590]
+polygon = PackedVector2Array(-59.999992, -105.8642, 3.8889008, -60.493828, 4.444458, -12.34568, 3.3333435, 104.93826, 165.2778, 104.012344, 165.00003, -106.17284)

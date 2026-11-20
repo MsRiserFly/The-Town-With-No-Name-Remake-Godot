@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://ba7hqebhubfjo"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_3up5p"]
+[ext_resource type="SpriteFrames" uid="uid://d3nwdp3l84mbn" path="res://resource/spriteframes/head into town after choice 1/notshane misshot.tres" id="2_oyhjf"]
+
+[node name="NotshaneMissTheShot" type="AnimatedSprite2D" unique_id=484358804]
+script = ExtResource("1_3up5p")
+next_scene_path = "res://scenes/head into town ch2/kidbro shooting/kidbro shooting.tscn"
+sprite_array = Array[SpriteFrames]([ExtResource("2_oyhjf")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

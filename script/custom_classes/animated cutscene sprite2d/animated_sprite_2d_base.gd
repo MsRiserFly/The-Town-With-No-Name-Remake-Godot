@@ -15,7 +15,7 @@ func _fit_frame_size_to_viewport(spritefr:SpriteFrames):
 		return
 		
 	if spritefr.get_frame_count(spritefr.get_animation_names()[0]) > 0:
-		var texture : Texture2D= spritefr.get_frame_texture(
+		var texture : Texture2D = spritefr.get_frame_texture(
 			spritefr.get_animation_names()[0],
 			0
 		)

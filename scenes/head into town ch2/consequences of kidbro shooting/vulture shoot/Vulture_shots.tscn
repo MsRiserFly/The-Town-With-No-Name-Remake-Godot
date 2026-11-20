@@ -7,5 +7,6 @@
 
 [node name="VultureShots" type="AnimatedSprite2D" unique_id=1448392738]
 script = ExtResource("1_obxmu")
+next_scene_path = "res://scenes/head into town ch2/after kidbro shooting/after kidbro shooting.tscn"
 sprite_array = Array[SpriteFrames]([ExtResource("2_r1i5w"), ExtResource("3_j85wd"), ExtResource("4_g4wg8")])
 metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

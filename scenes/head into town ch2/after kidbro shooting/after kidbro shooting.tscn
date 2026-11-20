@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cajkw5d3mvhnr"]
+
+[ext_resource type="Script" uid="uid://cbqqvaeoxjj6d" path="res://script/custom_classes/animated cutscene sprite2d/animated_sprite_2d_spriteframe_array.gd" id="1_hxofu"]
+[ext_resource type="SpriteFrames" uid="uid://c4qgl2yf2m2dj" path="res://resource/spriteframes/head into town after choice 1/after kidbro death/clint lookup.tres" id="2_dxtr0"]
+[ext_resource type="SpriteFrames" uid="uid://c0a3230ahkx5h" path="res://resource/spriteframes/head into town after choice 1/after kidbro death/mr diablo lincoln.tres" id="3_dxtr0"]
+
+[node name="AnimatedCutsceneSprite2D_sprite_array" type="AnimatedSprite2D" unique_id=354270952]
+script = ExtResource("1_hxofu")
+sprite_array = Array[SpriteFrames]([ExtResource("2_dxtr0"), ExtResource("3_dxtr0")])
+metadata/_custom_type_script = "uid://cbqqvaeoxjj6d"

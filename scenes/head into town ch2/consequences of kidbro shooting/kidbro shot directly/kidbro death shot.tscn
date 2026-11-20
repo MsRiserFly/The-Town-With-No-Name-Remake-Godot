@@ -8,6 +8,6 @@
 script = ExtResource("1_yfe51")
 censored_no_gore_sprite = ExtResource("2_0dtrx")
 censored_no_death_sprite = ExtResource("2_0dtrx")
-next_scene_path = "<null>"
+next_scene_path = "res://scenes/head into town ch2/after kidbro shooting/after kidbro shooting.tscn"
 sprite_array = Array[SpriteFrames]([ExtResource("3_6jun2")])
 metadata/_custom_type_script = "uid://bu532j6njksdf"

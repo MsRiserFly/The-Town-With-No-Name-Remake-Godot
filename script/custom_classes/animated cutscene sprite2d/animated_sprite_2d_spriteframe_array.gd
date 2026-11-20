@@ -43,7 +43,11 @@ func _configure_spriteframes():
 	if sprite_frames:
 		#set loop mode false
 		sprite_frames.set_animation_loop_mode(sprite_frames.get_animation_names()[0],SpriteFrames.LOOP_NONE)
-		
+	
+	if sprite_array:
+		if sprite_array.size() > 0:
+			sprite_array[0].set_animation_loop_mode(sprite_frames.get_animation_names()[0],SpriteFrames.LOOP_NONE)
+	
 func _unhandled_input(event: InputEvent) -> void:
 	if event.is_action_pressed('ui_accept'):
 		_next_animation()
